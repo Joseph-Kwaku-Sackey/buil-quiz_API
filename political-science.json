@@ -1,0 +1,607 @@
+[
+  {
+    "id": 1,
+    "question": "What is the main purpose of a constitution?",
+    "options": [
+      "To establish government structure",
+      "To outline individual rights",
+      "To limit government power",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 2,
+    "question": "Which political ideology advocates for social ownership of the means of production?",
+    "options": [
+      "Capitalism",
+      "Socialism",
+      "Libertarianism",
+      "Fascism"
+    ],
+    "answer": "Socialism"
+  },
+  {
+    "id": 3,
+    "question": "What is the term for a government ruled by a single person with absolute power?",
+    "options": [
+      "Democracy",
+      "Monarchy",
+      "Dictatorship",
+      "Oligarchy"
+    ],
+    "answer": "Dictatorship"
+  },
+  {
+    "id": 4,
+    "question": "Which document declared the independence of the United States?",
+    "options": [
+      "The Constitution",
+      "The Bill of Rights",
+      "The Declaration of Independence",
+      "The Articles of Confederation"
+    ],
+    "answer": "The Declaration of Independence"
+  },
+  {
+    "id": 5,
+    "question": "What is the primary function of the legislative branch of government?",
+    "options": [
+      "To enforce laws",
+      "To interpret laws",
+      "To make laws",
+      "To veto laws"
+    ],
+    "answer": "To make laws"
+  },
+  {
+    "id": 6,
+    "question": "Which political system is characterized by a division of powers between national and regional governments?",
+    "options": [
+      "Unitary system",
+      "Confederation",
+      "Federal system",
+      "Monarchy"
+    ],
+    "answer": "Federal system"
+  },
+  {
+    "id": 7,
+    "question": "What is the term for the right to vote?",
+    "options": [
+      "Suffrage",
+      "Franchise",
+      "Electoral power",
+      "Civic duty"
+    ],
+    "answer": "Suffrage"
+  },
+  {
+    "id": 8,
+    "question": "Which of the following is a characteristic of a democracy?",
+    "options": [
+      "Free and fair elections",
+      "Rule of law",
+      "Protection of individual rights",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 9,
+    "question": "What is the primary role of the executive branch?",
+    "options": [
+      "To create laws",
+      "To enforce laws",
+      "To interpret laws",
+      "To amend laws"
+    ],
+    "answer": "To enforce laws"
+  },
+  {
+    "id": 10,
+    "question": "Which political theory emphasizes the importance of individual rights and freedoms?",
+    "options": [
+      "Liberalism",
+      "Conservatism",
+      "Socialism",
+      "Communism"
+    ],
+    "answer": "Liberalism"
+  },
+  {
+    "id": 11,
+    "question": "What is the term for a political system where power is held by a small group of elites?",
+    "options": [
+      "Oligarchy",
+      "Democracy",
+      "Autocracy",
+      "Plutocracy"
+    ],
+    "answer": "Oligarchy"
+  },
+  {
+    "id": 12,
+    "question": "Which amendment to the U.S. Constitution abolished slavery?",
+    "options": [
+      "13th Amendment",
+      "14th Amendment",
+      "15th Amendment",
+      "19th Amendment"
+    ],
+    "answer": "13th Amendment"
+  },
+  {
+    "id": 13,
+    "question": "What is the primary purpose of political parties?",
+    "options": [
+      "To organize elections",
+      "To represent different ideologies",
+      "To influence government policy",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 14,
+    "question": "Which of the following is a form of government in which power is inherited?",
+    "options": [
+      "Democracy",
+      "Monarchy",
+      "Republic",
+      "Theocracy"
+    ],
+    "answer": "Monarchy"
+  },
+  {
+    "id": 15,
+    "question": "What is the term for the separation of powers within a government?",
+    "options": [
+      "Checks and balances",
+      "Federalism",
+      "Bicameralism",
+      "Separation of church and state"
+    ],
+    "answer": "Checks and balances"
+  },
+  {
+    "id": 16,
+    "question": "Which political philosopher is known for the concept of the 'social contract'?",
+    "options": [
+      "Thomas Hobbes",
+      "John Locke",
+      "Jean-Jacques Rousseau",
+      "Karl Marx"
+    ],
+    "answer": "Jean-Jacques Rousseau"
+  },
+  {
+    "id": 17,
+    "question": "What is the term for the principle that government derives its power from the consent of the governed?",
+    "options": [
+      "Popular sovereignty",
+      "Limited government",
+      "Rule of law",
+      "Separation of powers"
+    ],
+    "answer": "Popular sovereignty"
+  },
+  {
+    "id": 18,
+    "question": "Which of the following is a fundamental right protected by the U.S. Constitution?",
+    "options": [
+      "Freedom of speech",
+      "Right to bear arms",
+      "Right to a fair trial",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 19,
+    "question": "What is the term for the process by which voters can propose legislation or constitutional amendments?",
+    "options": [
+      "Referendum",
+      "Initiative",
+      "Recall",
+      "Plebiscite"
+    ],
+    "answer": "Initiative"
+  },
+  {
+    "id": 20,
+    "question": "Which of the following is a characteristic of totalitarianism?",
+    "options": [
+      "Centralized control",
+      "Suppression of dissent",
+      "State control of the economy",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 21,
+    "question": "What is the term for the right of the government to take private property for public use?",
+    "options": [
+      "Eminent domain",
+      "Zoning",
+      "Condemnation",
+      "Property tax"
+    ],
+    "answer": "Eminent domain"
+  },
+  {
+    "id": 22,
+    "question": "Which branch of government is responsible for interpreting laws?",
+    "options": [
+      "Legislative",
+      "Executive",
+      "Judicial",
+      "Administrative"
+    ],
+    "answer": "Judicial"
+  },
+  {
+    "id": 23,
+    "question": "What is the primary purpose of the United Nations?",
+    "options": [
+      "To promote international peace and security",
+      "To regulate trade",
+      "To provide humanitarian aid",
+      "To enforce international law"
+    ],
+    "answer": "To promote international peace and security"
+  },
+  {
+    "id": 24,
+    "question": "Which of the following is a key principle of democracy?",
+    "options": [
+      "Majority rule",
+      "Minority rights",
+      "Political equality",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 25,
+    "question": "What is the term for a government in which religious leaders control political power?",
+    "options": [
+      "Theocracy",
+      "Oligarchy",
+      "Democracy",
+      "Monarchy"
+    ],
+    "answer": "Theocracy"
+  },
+  {
+    "id": 26,
+    "question": "Which of the following is a method of political participation?",
+    "options": [
+      "Voting",
+      "Campaigning",
+      "Protesting",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 27,
+    "question": "What is the term for a system of government in which power is divided between a central authority and constituent political units?",
+    "options": [
+      "Federalism",
+      "Unitary system",
+      "Confederation",
+      "Oligarchy"
+    ],
+    "answer": "Federalism"
+  },
+  {
+    "id": 28,
+    "question": "Which of the following is a key feature of a parliamentary system?",
+    "options": [
+      "Fusion of powers",
+      "Separation of powers",
+      "Bicameral legislature",
+      "Fixed terms for leaders"
+    ],
+    "answer": "Fusion of powers"
+  },
+  {
+    "id": 29,
+    "question": "What is the term for the practice of drawing district boundaries to benefit a particular political party?",
+    "options": [
+      "Gerrymandering",
+      "Redistricting",
+      "Apportionment",
+      "Segregation"
+    ],
+    "answer": "Gerrymandering"
+  },
+  {
+    "id": 30,
+    "question": "Which political party is traditionally associated with conservative values in the United States?",
+    "options": [
+      "Democratic Party",
+      "Republican Party",
+      "Green Party",
+      "Libertarian Party"
+    ],
+    "answer": "Republican Party"
+  },
+  {
+    "id": 31,
+    "question": "What is the term for the process of evaluating candidates for public office?",
+    "options": [
+      "Election",
+      "Campaigning",
+      "Voting",
+      "Nominating"
+    ],
+    "answer": "Election"
+  },
+  {
+    "id": 32,
+    "question": "Which of the following is a form of direct democracy?",
+    "options": [
+      "Referendum",
+      "Representative democracy",
+      "Constitutional monarchy",
+      "Oligarchy"
+    ],
+    "answer": "Referendum"
+  },
+  {
+    "id": 33,
+    "question": "What is the term for the legal process of removing a sitting president from office?",
+    "options": [
+      "Impeachment",
+      "Censure",
+      "Recall",
+      "Resignation"
+    ],
+    "answer": "Impeachment"
+  },
+  {
+    "id": 34,
+    "question": "Which of the following is a major international organization focused on economic cooperation?",
+    "options": [
+      "United Nations",
+      "World Trade Organization",
+      "North Atlantic Treaty Organization",
+      "International Monetary Fund"
+    ],
+    "answer": "World Trade Organization"
+  },
+  {
+    "id": 35,
+    "question": "What is the term for the practice of influencing public policy through advocacy and lobbying?",
+    "options": [
+      "Political action",
+      "Public relations",
+      "Grassroots campaigning",
+      "Political lobbying"
+    ],
+    "answer": "Political lobbying"
+  },
+  {
+    "id": 36,
+    "question": "Which of the following is a common method of political communication?",
+    "options": [
+      "Social media",
+      "Television",
+      "Print media",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 37,
+    "question": "What is the term for a political system in which the government owns and controls the means of production?",
+    "options": [
+      "Socialism",
+      "Capitalism",
+      "Feudalism",
+      "Anarchism"
+    ],
+    "answer": "Socialism"
+  },
+  {
+    "id": 38,
+    "question": "Which of the following is a key feature of a constitutional monarchy?",
+    "options": [
+      "The monarch has absolute power",
+      "The monarch's powers are limited by a constitution",
+      "The government is run by elected officials",
+      "There is no monarchy"
+    ],
+    "answer": "The monarch's powers are limited by a constitution"
+  },
+  {
+    "id": 39,
+    "question": "What is the term for the process of creating and enforcing laws?",
+    "options": [
+      "Legislation",
+      "Judiciary",
+      "Executive action",
+      "Constitutional review"
+    ],
+    "answer": "Legislation"
+  },
+  {
+    "id": 40,
+    "question": "Which of the following is a major political theory that emphasizes individual rights and freedoms?",
+    "options": [
+      "Liberalism",
+      "Conservatism",
+      "Socialism",
+      "Fascism"
+    ],
+    "answer": "Liberalism"
+  },
+  {
+    "id": 41,
+    "question": "What is the term for a political system in which power is concentrated in a single leader or party?",
+    "options": [
+      "Totalitarianism",
+      "Democracy",
+      "Oligarchy",
+      "Anarchy"
+    ],
+    "answer": "Totalitarianism"
+  },
+  {
+    "id": 42,
+    "question": "Which of the following is a key feature of a federal system of government?",
+    "options": [
+      "Division of powers",
+      "Centralized authority",
+      "Unitary government",
+      "Monarchy"
+    ],
+    "answer": "Division of powers"
+  },
+  {
+    "id": 43,
+    "question": "What is the term for the practice of drawing district lines to favor one political party over another?",
+    "options": [
+      "Gerrymandering",
+      "Redistricting",
+      "Apportionment",
+      "Segregation"
+    ],
+    "answer": "Gerrymandering"
+  },
+  {
+    "id": 44,
+    "question": "Which of the following is a major international organization focused on peacekeeping?",
+    "options": [
+      "World Trade Organization",
+      "United Nations",
+      "International Monetary Fund",
+      "North Atlantic Treaty Organization"
+    ],
+    "answer": "United Nations"
+  },
+  {
+    "id": 45,
+    "question": "What is the term for a system of government in which citizens elect representatives to make decisions on their behalf?",
+    "options": [
+      "Direct democracy",
+      "Representative democracy",
+      "Oligarchy",
+      "Monarchy"
+    ],
+    "answer": "Representative democracy"
+  },
+  {
+    "id": 46,
+    "question": "Which of the following is a key principle of liberal democracy?",
+    "options": [
+      "Majority rule",
+      "Minority rights",
+      "Political equality",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 47,
+    "question": "What is the term for a political system in which the government controls all aspects of life?",
+    "options": [
+      "Totalitarianism",
+      "Democracy",
+      "Socialism",
+      "Anarchy"
+    ],
+    "answer": "Totalitarianism"
+  },
+  {
+    "id": 48,
+    "question": "Which of the following is a major political party in the United States?",
+    "options": [
+      "Democratic Party",
+      "Republican Party",
+      "Green Party",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 49,
+    "question": "What is the primary purpose of a political campaign?",
+    "options": [
+      "To promote a candidate",
+      "To raise funds",
+      "To mobilize voters",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 50,
+    "question": "Which of the following is a key feature of a parliamentary system?",
+    "options": [
+      "Fusion of powers",
+      "Separation of powers",
+      "Bicameral legislature",
+      "Fixed terms for leaders"
+    ],
+    "answer": "Fusion of powers"
+  },
+  {
+    "id": 51,
+    "question": "What is the term for the process of evaluating candidates for public office?",
+    "options": [
+      "Election",
+      "Campaigning",
+      "Voting",
+      "Nominating"
+    ],
+    "answer": "Election"
+  },
+  {
+    "id": 52,
+    "question": "Which of the following is a common method of political participation?",
+    "options": [
+      "Voting",
+      "Campaigning",
+      "Protesting",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 53,
+    "question": "What is the term for a system of government in which power is concentrated in a single leader or party?",
+    "options": [
+      "Dictatorship",
+      "Oligarchy",
+      "Democracy",
+      "Monarchy"
+    ],
+    "answer": "Dictatorship"
+  },
+  {
+    "id": 54,
+    "question": "Which philosopher is known for the concept of the 'social contract'?",
+    "options": [
+      "Thomas Hobbes",
+      "John Locke",
+      "Jean-Jacques Rousseau",
+      "Karl Marx"
+    ],
+    "answer": "Jean-Jacques Rousseau"
+  },
+  {
+    "id": 55,
+    "question": "What is the term for a government ruled by a small group of elites?",
+    "options": [
+      "Oligarchy",
+      "Democracy",
+      "Autocracy",
+      "Plutocracy"
+    ],
+    "answer": "Oligarchy"
+  }
+]
