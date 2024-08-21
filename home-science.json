@@ -1,0 +1,651 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary purpose of budgeting?",
+    "options": [
+      "To track spending",
+      "To increase income",
+      "To save for retirement",
+      "To reduce expenses"
+    ],
+    "answer": "To track spending"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is a common method of food preservation?",
+    "options": [
+      "Freezing",
+      "Cooking",
+      "Serving",
+      "Eating"
+    ],
+    "answer": "Freezing"
+  },
+  {
+    "id": 3,
+    "question": "What is the recommended internal temperature for cooked poultry?",
+    "options": [
+      "145°F",
+      "165°F",
+      "180°F",
+      "155°F"
+    ],
+    "answer": "165°F"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following is a key component of a healthy diet?",
+    "options": [
+      "Fruits and vegetables",
+      "Sugary snacks",
+      "Processed foods",
+      "High-fat meats"
+    ],
+    "answer": "Fruits and vegetables"
+  },
+  {
+    "id": 5,
+    "question": "What is the term for the practice of managing household resources effectively?",
+    "options": [
+      "Home management",
+      "Resource allocation",
+      "Financial planning",
+      "Time management"
+    ],
+    "answer": "Home management"
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is a common method of cleaning fabrics?",
+    "options": [
+      "Dry cleaning",
+      "Ironing",
+      "Starching",
+      "Bleaching"
+    ],
+    "answer": "Dry cleaning"
+  },
+  {
+    "id": 7,
+    "question": "What is the primary purpose of meal planning?",
+    "options": [
+      "To reduce food waste",
+      "To save money",
+      "To ensure balanced nutrition",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 8,
+    "question": "Which kitchen appliance is used for baking?",
+    "options": [
+      "Microwave",
+      "Oven",
+      "Toaster",
+      "Blender"
+    ],
+    "answer": "Oven"
+  },
+  {
+    "id": 9,
+    "question": "What is the term for the process of planning and preparing meals?",
+    "options": [
+      "Culinary arts",
+      "Meal prep",
+      "Food science",
+      "Nutrition"
+    ],
+    "answer": "Meal prep"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is a healthy cooking method?",
+    "options": [
+      "Frying",
+      "Grilling",
+      "Baking",
+      "Both grilling and baking"
+    ],
+    "answer": "Both grilling and baking"
+  },
+  {
+    "id": 11,
+    "question": "What is the primary purpose of a family budget?",
+    "options": [
+      "To track expenses",
+      "To save for vacations",
+      "To increase income",
+      "To reduce debt"
+    ],
+    "answer": "To track expenses"
+  },
+  {
+    "id": 12,
+    "question": "Which nutrient is essential for muscle growth?",
+    "options": [
+      "Carbohydrates",
+      "Proteins",
+      "Fats",
+      "Vitamins"
+    ],
+    "answer": "Proteins"
+  },
+  {
+    "id": 13,
+    "question": "What is the term for the practice of sewing and repairing clothing?",
+    "options": [
+      "Tailoring",
+      "Fashion design",
+      "Dressmaking",
+      "Alterations"
+    ],
+    "answer": "Sewing"
+  },
+  {
+    "id": 14,
+    "question": "Which of the following is a common source of dietary fiber?",
+    "options": [
+      "Fruits",
+      "Meat",
+      "Dairy",
+      "Sugary snacks"
+    ],
+    "answer": "Fruits"
+  },
+  {
+    "id": 15,
+    "question": "What is the recommended daily intake of water for adults?",
+    "options": [
+      "2 liters",
+      "3 liters",
+      "1 liter",
+      "4 liters"
+    ],
+    "answer": "2 liters"
+  },
+  {
+    "id": 16,
+    "question": "What is the primary purpose of food labeling?",
+    "options": [
+      "To provide nutritional information",
+      "To promote the product",
+      "To increase sales",
+      "To reduce costs"
+    ],
+    "answer": "To provide nutritional information"
+  },
+  {
+    "id": 17,
+    "question": "Which of the following is a common household chore?",
+    "options": [
+      "Cleaning",
+      "Cooking",
+      "Laundry",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 18,
+    "question": "What is the term for a balanced combination of different food groups?",
+    "options": [
+      "Dietary balance",
+      "Food pyramid",
+      "Nutritional balance",
+      "Dietary guideline"
+    ],
+    "answer": "Dietary balance"
+  },
+  {
+    "id": 19,
+    "question": "Which cooking method involves submerging food in hot oil?",
+    "options": [
+      "Boiling",
+      "Frying",
+      "Baking",
+      "Steaming"
+    ],
+    "answer": "Frying"
+  },
+  {
+    "id": 20,
+    "question": "What is the term for the practice of managing household finances?",
+    "options": [
+      "Financial literacy",
+      "Budgeting",
+      "Home economics",
+      "Wealth management"
+    ],
+    "answer": "Budgeting"
+  },
+  {
+    "id": 21,
+    "question": "Which of the following is a common source of protein?",
+    "options": [
+      "Eggs",
+      "Bread",
+      "Rice",
+      "Potatoes"
+    ],
+    "answer": "Eggs"
+  },
+  {
+    "id": 22,
+    "question": "What is the primary purpose of a recipe?",
+    "options": [
+      "To provide cooking instructions",
+      "To list ingredients",
+      "To ensure consistency",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 23,
+    "question": "Which of the following is a healthy fat?",
+    "options": [
+      "Saturated fat",
+      "Trans fat",
+      "Unsaturated fat",
+      "Cholesterol"
+    ],
+    "answer": "Unsaturated fat"
+  },
+  {
+    "id": 24,
+    "question": "What is the term for a food that has been processed to remove nutrients?",
+    "options": [
+      "Refined food",
+      "Whole food",
+      "Organic food",
+      "Natural food"
+    ],
+    "answer": "Refined food"
+  },
+  {
+    "id": 25,
+    "question": "Which of the following is a common method of food storage?",
+    "options": [
+      "Refrigeration",
+      "Freezing",
+      "Canning",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 26,
+    "question": "What is the primary purpose of meal planning?",
+    "options": [
+      "To save time",
+      "To reduce food waste",
+      "To ensure balanced nutrition",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 27,
+    "question": "Which of the following is a common kitchen utensil?",
+    "options": [
+      "Spoon",
+      "Fork",
+      "Knife",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 28,
+    "question": "What is the term for the practice of making food from scratch?",
+    "options": [
+      "Home cooking",
+      "Meal prep",
+      "Culinary arts",
+      "Gourmet cooking"
+    ],
+    "answer": "Home cooking"
+  },
+  {
+    "id": 29,
+    "question": "Which of the following is a common type of grain?",
+    "options": [
+      "Wheat",
+      "Rice",
+      "Corn",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 30,
+    "question": "What is the term for the practice of managing household resources effectively?",
+    "options": [
+      "Home economics",
+      "Resource management",
+      "Financial planning",
+      "Time management"
+    ],
+    "answer": "Home economics"
+  },
+  {
+    "id": 31,
+    "question": "Which of the following is a common source of carbohydrates?",
+    "options": [
+      "Bread",
+      "Meat",
+      "Dairy",
+      "Vegetables"
+    ],
+    "answer": "Bread"
+  },
+  {
+    "id": 32,
+    "question": "What is the primary purpose of a family meal?",
+    "options": [
+      "To save money",
+      "To promote family bonding",
+      "To ensure nutrition",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 33,
+    "question": "Which of the following is a common method of food preparation?",
+    "options": [
+      "Boiling",
+      "Baking",
+      "Grilling",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 34,
+    "question": "What is the term for the practice of managing household chores?",
+    "options": [
+      "Household management",
+      "Domestic management",
+      "Family management",
+      "Home economics"
+    ],
+    "answer": "Household management"
+  },
+  {
+    "id": 35,
+    "question": "Which of the following is a benefit of home gardening?",
+    "options": [
+      "Fresh produce",
+      "Physical activity",
+      "Stress relief",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 36,
+    "question": "What is the term for the practice of reducing food waste?",
+    "options": [
+      "Sustainability",
+      "Waste management",
+      "Food preservation",
+      "Resource conservation"
+    ],
+    "answer": "Sustainability"
+  },
+  {
+    "id": 37,
+    "question": "Which of the following is a common household appliance?",
+    "options": [
+      "Refrigerator",
+      "Washing machine",
+      "Microwave",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 38,
+    "question": "What is the primary benefit of using a slow cooker?",
+    "options": [
+      "Convenience",
+      "Energy efficiency",
+      "Flavor enhancement",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 39,
+    "question": "Which of the following is a common type of dairy product?",
+    "options": [
+      "Milk",
+      "Cheese",
+      "Yogurt",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 40,
+    "question": "What is the term for the practice of managing household budgets?",
+    "options": [
+      "Financial planning",
+      "Budgeting",
+      "Expense tracking",
+      "Resource allocation"
+    ],
+    "answer": "Budgeting"
+  },
+  {
+    "id": 41,
+    "question": "Which of the following is a common method of food safety?",
+    "options": [
+      "Proper cooking temperatures",
+      "Handwashing",
+      "Food storage",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 42,
+    "question": "What is the primary purpose of a family meal plan?",
+    "options": [
+      "To save time",
+      "To ensure nutrition",
+      "To reduce food waste",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 43,
+    "question": "Which of the following is a common source of vitamins?",
+    "options": [
+      "Fruits",
+      "Vegetables",
+      "Whole grains",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 44,
+    "question": "What is the term for the practice of sewing and repairing clothing?",
+    "options": [
+      "Tailoring",
+      "Fashion design",
+      "Dressmaking",
+      "Alterations"
+    ],
+    "answer": "Sewing"
+  },
+  {
+    "id": 45,
+    "question": "Which of the following is a common method of food storage?",
+    "options": [
+      "Refrigeration",
+      "Freezing",
+      "Canning",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 46,
+    "question": "What is the primary purpose of a food diary?",
+    "options": [
+      "To track food intake",
+      "To plan meals",
+      "To monitor weight",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 47,
+    "question": "Which of the following is a common type of vegetable?",
+    "options": [
+      "Carrot",
+      "Broccoli",
+      "Spinach",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 48,
+    "question": "What is the term for a food that is grown without synthetic pesticides?",
+    "options": [
+      "Organic food",
+      "Natural food",
+      "Processed food",
+      "Conventional food"
+    ],
+    "answer": "Organic food"
+  },
+  {
+    "id": 49,
+    "question": "Which of the following is a common household cleaning product?",
+    "options": [
+      "Bleach",
+      "Vinegar",
+      "Baking soda",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 50,
+    "question": "What is the primary benefit of using a meal kit service?",
+    "options": [
+      "Convenience",
+      "Variety",
+      "Nutrition",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 51,
+    "question": "Which of the following is a common method of food preparation?",
+    "options": [
+      "Baking",
+      "Grilling",
+      "Boiling",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 52,
+    "question": "What is the term for the practice of managing household chores?",
+    "options": [
+      "Household management",
+      "Domestic management",
+      "Family management",
+      "Home economics"
+    ],
+    "answer": "Household management"
+  },
+  {
+    "id": 53,
+    "question": "Which of the following is a benefit of home gardening?",
+    "options": [
+      "Fresh produce",
+      "Physical activity",
+      "Stress relief",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 54,
+    "question": "What is the term for the practice of reducing food waste?",
+    "options": [
+      "Sustainability",
+      "Waste management",
+      "Food preservation",
+      "Resource conservation"
+    ],
+    "answer": "Sustainability"
+  },
+  {
+    "id": 55,
+    "question": "Which of the following is a common household appliance?",
+    "options": [
+      "Refrigerator",
+      "Washing machine",
+      "Microwave",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 56,
+    "question": "What is the primary benefit of using a slow cooker?",
+    "options": [
+      "Convenience",
+      "Energy efficiency",
+      "Flavor enhancement",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 57,
+    "question": "Which of the following is a common type of dairy product?",
+    "options": [
+      "Milk",
+      "Cheese",
+      "Yogurt",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 58,
+    "question": "What is the term for the practice of managing household budgets?",
+    "options": [
+      "Financial planning",
+      "Budgeting",
+      "Expense tracking",
+      "Resource allocation"
+    ],
+    "answer": "Budgeting"
+  },
+  {
+    "id": 59,
+    "question": "Which of the following is a common method of food safety?",
+    "options": [
+      "Proper cooking temperatures",
+      "Handwashing",
+      "Food storage",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  }
+]
