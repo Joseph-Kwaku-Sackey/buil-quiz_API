@@ -1,0 +1,629 @@
+[
+  {
+    "id": 1,
+    "question": "What is the unit of electrical resistance?",
+    "options": [
+      "Ohm",
+      "Volt",
+      "Ampere",
+      "Watt"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 2,
+    "question": "Which law states that the current through a conductor between two points is directly proportional to the voltage across the two points?",
+    "options": [
+      "Ohm's Law",
+      "Kirchhoff's Law",
+      "Faraday's Law",
+      "Ampere's Law"
+    ],
+    "answer": "Ohm's Law"
+  },
+  {
+    "id": 3,
+    "question": "What is the primary function of a transformer?",
+    "options": [
+      "To increase voltage",
+      "To decrease voltage",
+      "To isolate circuits",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 4,
+    "question": "What is the term for the flow of electric charge?",
+    "options": [
+      "Voltage",
+      "Current",
+      "Resistance",
+      "Power"
+    ],
+    "answer": "Current"
+  },
+  {
+    "id": 5,
+    "question": "Which component is used to store electrical energy?",
+    "options": [
+      "Resistor",
+      "Capacitor",
+      "Inductor",
+      "Diode"
+    ],
+    "answer": "Capacitor"
+  },
+  {
+    "id": 6,
+    "question": "What is the unit of electric power?",
+    "options": [
+      "Joule",
+      "Watt",
+      "Coulomb",
+      "Volt"
+    ],
+    "answer": "Watt"
+  },
+  {
+    "id": 7,
+    "question": "Which device converts electrical energy into mechanical energy?",
+    "options": [
+      "Generator",
+      "Motor",
+      "Transformer",
+      "Rectifier"
+    ],
+    "answer": "Motor"
+  },
+  {
+    "id": 8,
+    "question": "What is the purpose of a diode in a circuit?",
+    "options": [
+      "To allow current to flow in one direction",
+      "To store energy",
+      "To increase voltage",
+      "To limit current"
+    ],
+    "answer": "To allow current to flow in one direction"
+  },
+  {
+    "id": 9,
+    "question": "What does AC stand for in electrical engineering?",
+    "options": [
+      "Alternating Current",
+      "Alternating Charge",
+      "Ampere Current",
+      "Active Current"
+    ],
+    "answer": "Alternating Current"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is a passive component?",
+    "options": [
+      "Transistor",
+      "Resistor",
+      "Operational amplifier",
+      "Integrated circuit"
+    ],
+    "answer": "Resistor"
+  },
+  {
+    "id": 11,
+    "question": "What is the primary function of an inductor?",
+    "options": [
+      "To store energy in a magnetic field",
+      "To store energy in an electric field",
+      "To limit current",
+      "To convert AC to DC"
+    ],
+    "answer": "To store energy in a magnetic field"
+  },
+  {
+    "id": 12,
+    "question": "What is the formula for calculating electrical power?",
+    "options": [
+      "P = IV",
+      "P = I^2R",
+      "P = V^2/R",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 13,
+    "question": "What is the term for the opposition to the flow of current?",
+    "options": [
+      "Voltage",
+      "Power",
+      "Resistance",
+      "Capacitance"
+    ],
+    "answer": "Resistance"
+  },
+  {
+    "id": 14,
+    "question": "Which of the following is a characteristic of a series circuit?",
+    "options": [
+      "Same current flows through all components",
+      "Voltage is divided among components",
+      "If one component fails, the circuit is broken",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 15,
+    "question": "What is the purpose of a circuit breaker?",
+    "options": [
+      "To protect against overloads",
+      "To regulate voltage",
+      "To store energy",
+      "To convert AC to DC"
+    ],
+    "answer": "To protect against overloads"
+  },
+  {
+    "id": 16,
+    "question": "What is the main function of a capacitor in an AC circuit?",
+    "options": [
+      "To allow DC to pass",
+      "To block AC",
+      "To store and release energy",
+      "To increase resistance"
+    ],
+    "answer": "To store and release energy"
+  },
+  {
+    "id": 17,
+    "question": "What is the term for the rate of flow of electric charge?",
+    "options": [
+      "Voltage",
+      "Current",
+      "Power",
+      "Energy"
+    ],
+    "answer": "Current"
+  },
+  {
+    "id": 18,
+    "question": "Which of the following is a common application of a transformer?",
+    "options": [
+      "Power distribution",
+      "Signal processing",
+      "Voltage regulation",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 19,
+    "question": "What is the primary use of a rectifier?",
+    "options": [
+      "To convert AC to DC",
+      "To increase voltage",
+      "To store energy",
+      "To measure current"
+    ],
+    "answer": "To convert AC to DC"
+  },
+  {
+    "id": 20,
+    "question": "What is the unit of capacitance?",
+    "options": [
+      "Farad",
+      "Henry",
+      "Ohm",
+      "Volt"
+    ],
+    "answer": "Farad"
+  },
+  {
+    "id": 21,
+    "question": "Which of the following devices can amplify electrical signals?",
+    "options": [
+      "Transistor",
+      "Resistor",
+      "Capacitor",
+      "Inductor"
+    ],
+    "answer": "Transistor"
+  },
+  {
+    "id": 22,
+    "question": "What is the term for the potential difference between two points in a circuit?",
+    "options": [
+      "Voltage",
+      "Current",
+      "Resistance",
+      "Power"
+    ],
+    "answer": "Voltage"
+  },
+  {
+    "id": 23,
+    "question": "Which of the following is a characteristic of a parallel circuit?",
+    "options": [
+      "Same voltage across all components",
+      "Current is divided among components",
+      "If one component fails, others remain operational",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 24,
+    "question": "What is the primary purpose of a fuse in an electrical circuit?",
+    "options": [
+      "To limit current",
+      "To protect against overloads",
+      "To convert AC to DC",
+      "To store energy"
+    ],
+    "answer": "To protect against overloads"
+  },
+  {
+    "id": 25,
+    "question": "Which of the following is a renewable source of energy?",
+    "options": [
+      "Solar energy",
+      "Nuclear energy",
+      "Natural gas",
+      "Coal"
+    ],
+    "answer": "Solar energy"
+  },
+  {
+    "id": 26,
+    "question": "What is the term for the measure of how much electrical energy is consumed in a circuit?",
+    "options": [
+      "Power",
+      "Voltage",
+      "Current",
+      "Resistance"
+    ],
+    "answer": "Power"
+  },
+  {
+    "id": 27,
+    "question": "Which of the following is a type of electrical circuit?",
+    "options": [
+      "Series circuit",
+      "Parallel circuit",
+      "Complex circuit",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 28,
+    "question": "What is the primary function of a relay in an electrical circuit?",
+    "options": [
+      "To control high-power devices",
+      "To amplify signals",
+      "To store energy",
+      "To measure voltage"
+    ],
+    "answer": "To control high-power devices"
+  },
+  {
+    "id": 29,
+    "question": "What is the term for the energy stored in an electric field?",
+    "options": [
+      "Capacitance",
+      "Inductance",
+      "Voltage",
+      "Current"
+    ],
+    "answer": "Capacitance"
+  },
+  {
+    "id": 30,
+    "question": "Which of the following is a common application of semiconductors?",
+    "options": [
+      "Transistors",
+      "Diodes",
+      "Integrated circuits",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 31,
+    "question": "What is the primary purpose of grounding in electrical systems?",
+    "options": [
+      "To prevent electrical shock",
+      "To improve circuit performance",
+      "To reduce interference",
+      "To enhance efficiency"
+    ],
+    "answer": "To prevent electrical shock"
+  },
+  {
+    "id": 32,
+    "question": "Which of the following is a common type of electrical measurement?",
+    "options": [
+      "Voltage measurement",
+      "Current measurement",
+      "Resistance measurement",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 33,
+    "question": "What is the term for the opposition to the flow of alternating current?",
+    "options": [
+      "Reactance",
+      "Resistance",
+      "Impedance",
+      "Conductance"
+    ],
+    "answer": "Impedance"
+  },
+  {
+    "id": 34,
+    "question": "Which of the following is a key component of an electrical circuit?",
+    "options": [
+      "Power source",
+      "Load",
+      "Conductors",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 35,
+    "question": "What is the primary purpose of a circuit diagram?",
+    "options": [
+      "To illustrate electrical connections",
+      "To show component values",
+      "To provide a visual representation of the circuit",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 36,
+    "question": "Which of the following is a common type of electrical fault?",
+    "options": [
+      "Short circuit",
+      "Open circuit",
+      "Ground fault",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 37,
+    "question": "What is the term for the measure of how much current flows through a conductor?",
+    "options": [
+      "Voltage",
+      "Power",
+      "Current",
+      "Resistance"
+    ],
+    "answer": "Current"
+  },
+  {
+    "id": 38,
+    "question": "Which of the following is a characteristic of an ideal voltage source?",
+    "options": [
+      "Constant voltage",
+      "Zero internal resistance",
+      "Infinite current capacity",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 39,
+    "question": "What is the term for the energy stored in a magnetic field?",
+    "options": [
+      "Inductance",
+      "Capacitance",
+      "Voltage",
+      "Current"
+    ],
+    "answer": "Inductance"
+  },
+  {
+    "id": 40,
+    "question": "Which of the following is a common type of electrical safety device?",
+    "options": [
+      "Fuse",
+      "Circuit breaker",
+      "Surge protector",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 41,
+    "question": "What is the primary purpose of a power supply?",
+    "options": [
+      "To convert electrical energy",
+      "To store energy",
+      "To regulate voltage",
+      "To provide power to devices"
+    ],
+    "answer": "To provide power to devices"
+  },
+  {
+    "id": 42,
+    "question": "Which of the following is a key principle of Kirchhoff's Current Law?",
+    "options": [
+      "The total current entering a junction equals the total current leaving",
+      "Voltage across a closed loop is equal to zero",
+      "Power is conserved in a circuit",
+      "Resistance is constant in a circuit"
+    ],
+    "answer": "The total current entering a junction equals the total current leaving"
+  },
+  {
+    "id": 43,
+    "question": "What is the term for the electrical potential difference between two points?",
+    "options": [
+      "Voltage",
+      "Current",
+      "Resistance",
+      "Power"
+    ],
+    "answer": "Voltage"
+  },
+  {
+    "id": 44,
+    "question": "Which of the following is a common application of capacitors?",
+    "options": [
+      "Energy storage",
+      "Filtering signals",
+      "Timing circuits",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 45,
+    "question": "What is the term for the measure of how much energy is used in a circuit?",
+    "options": [
+      "Power",
+      "Voltage",
+      "Current",
+      "Resistance"
+    ],
+    "answer": "Power"
+  },
+  {
+    "id": 46,
+    "question": "Which of the following is a common type of electrical circuit?",
+    "options": [
+      "Series circuit",
+      "Parallel circuit",
+      "Complex circuit",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 47,
+    "question": "What is the primary purpose of a relay?",
+    "options": [
+      "To control high-power devices",
+      "To amplify signals",
+      "To store energy",
+      "To measure voltage"
+    ],
+    "answer": "To control high-power devices"
+  },
+  {
+    "id": 48,
+    "question": "Which of the following is a common electrical measurement?",
+    "options": [
+      "Voltage",
+      "Current",
+      "Resistance",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 49,
+    "question": "What is the term for the opposition to the flow of current?",
+    "options": [
+      "Voltage",
+      "Power",
+      "Resistance",
+      "Capacitance"
+    ],
+    "answer": "Resistance"
+  },
+  {
+    "id": 50,
+    "question": "Which of the following is a renewable source of energy?",
+    "options": [
+      "Solar energy",
+      "Wind energy",
+      "Hydropower",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 51,
+    "question": "What is the term for the practice of managing electrical systems?",
+    "options": [
+      "Electrical engineering",
+      "Electronics",
+      "Power management",
+      "Circuit design"
+    ],
+    "answer": "Electrical engineering"
+  },
+  {
+    "id": 52,
+    "question": "Which of the following is a common use of an oscilloscope?",
+    "options": [
+      "Measuring voltage",
+      "Visualizing waveforms",
+      "Testing circuits",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 53,
+    "question": "What is the primary purpose of a circuit breaker?",
+    "options": [
+      "To protect against overloads",
+      "To regulate voltage",
+      "To store energy",
+      "To convert AC to DC"
+    ],
+    "answer": "To protect against overloads"
+  },
+  {
+    "id": 54,
+    "question": "Which of the following is a characteristic of an ideal voltage source?",
+    "options": [
+      "Constant voltage",
+      "Zero internal resistance",
+      "Infinite current capacity",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 55,
+    "question": "What is the term for the energy stored in an electric field?",
+    "options": [
+      "Capacitance",
+      "Inductance",
+      "Voltage",
+      "Current"
+    ],
+    "answer": "Capacitance"
+  },
+  {
+    "id": 56,
+    "question": "Which of the following is a common application of semiconductors?",
+    "options": [
+      "Transistors",
+      "Diodes",
+      "Integrated circuits",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 57,
+    "question": "What is the primary purpose of grounding in electrical systems?",
+    "options": [
+      "To prevent electrical shock",
+      "To improve circuit performance",
+      "To reduce interference",
+      "To enhance efficiency"
+    ],
+    "answer": "To prevent electrical shock"
+  }
+]
