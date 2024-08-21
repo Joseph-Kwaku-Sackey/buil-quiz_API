@@ -1,0 +1,629 @@
+[
+  {
+    "id": 1,
+    "question": "Who painted the Mona Lisa?",
+    "options": [
+      "Vincent van Gogh",
+      "Claude Monet",
+      "Leonardo da Vinci",
+      "Pablo Picasso"
+    ],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "id": 2,
+    "question": "What is the primary medium used in watercolor painting?",
+    "options": [
+      "Oil",
+      "Gouache",
+      "Water",
+      "Acrylic"
+    ],
+    "answer": "Water"
+  },
+  {
+    "id": 3,
+    "question": "Which artist is known for the sculpture 'David'?",
+    "options": [
+      "Michelangelo",
+      "Donatello",
+      "Bernini",
+      "Rodin"
+    ],
+    "answer": "Michelangelo"
+  },
+  {
+    "id": 4,
+    "question": "What style of art is characterized by vivid colors and bold brush strokes?",
+    "options": [
+      "Cubism",
+      "Fauvism",
+      "Impressionism",
+      "Surrealism"
+    ],
+    "answer": "Fauvism"
+  },
+  {
+    "id": 5,
+    "question": "Which artist is famous for the painting 'The Starry Night'?",
+    "options": [
+      "Vincent van Gogh",
+      "Georgia O'Keeffe",
+      "Henri Matisse",
+      "Edvard Munch"
+    ],
+    "answer": "Vincent van Gogh"
+  },
+  {
+    "id": 6,
+    "question": "What is the term for a painting done on wet plaster?",
+    "options": [
+      "Tempera",
+      "Fresco",
+      "Oil",
+      "Acrylic"
+    ],
+    "answer": "Fresco"
+  },
+  {
+    "id": 7,
+    "question": "Which movement is known for its focus on light and its changing qualities?",
+    "options": [
+      "Baroque",
+      "Renaissance",
+      "Impressionism",
+      "Romanticism"
+    ],
+    "answer": "Impressionism"
+  },
+  {
+    "id": 8,
+    "question": "Who created the famous painting 'The Persistence of Memory'?",
+    "options": [
+      "Andy Warhol",
+      "Salvador Dalí",
+      "Pablo Picasso",
+      "Jackson Pollock"
+    ],
+    "answer": "Salvador Dalí"
+  },
+  {
+    "id": 9,
+    "question": "What is the primary focus of abstract art?",
+    "options": [
+      "Realism",
+      "Emotional expression",
+      "Historical events",
+      "Nature"
+    ],
+    "answer": "Emotional expression"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is a famous muralist?",
+    "options": [
+      "Frida Kahlo",
+      "Diego Rivera",
+      "Georgia O'Keeffe",
+      "Henri Matisse"
+    ],
+    "answer": "Diego Rivera"
+  },
+  {
+    "id": 11,
+    "question": "Which artist is known for the work 'The Scream'?",
+    "options": [
+      "Vincent van Gogh",
+      "Edvard Munch",
+      "Pablo Picasso",
+      "Henri Matisse"
+    ],
+    "answer": "Edvard Munch"
+  },
+  {
+    "id": 12,
+    "question": "What is the main characteristic of Cubism?",
+    "options": [
+      "Realistic representation",
+      "Focus on light and color",
+      "Use of geometric shapes",
+      "Emotional expression"
+    ],
+    "answer": "Use of geometric shapes"
+  },
+  {
+    "id": 13,
+    "question": "Which artist created the mural 'Man at the Crossroads'?",
+    "options": [
+      "Frida Kahlo",
+      "Diego Rivera",
+      "David Alfaro Siqueiros",
+      "José Clemente Orozco"
+    ],
+    "answer": "Diego Rivera"
+  },
+  {
+    "id": 14,
+    "question": "What art movement is characterized by dream-like scenes?",
+    "options": [
+      "Surrealism",
+      "Futurism",
+      "Dadaism",
+      "Realism"
+    ],
+    "answer": "Surrealism"
+  },
+  {
+    "id": 15,
+    "question": "Who is known for the painting 'The Birth of Venus'?",
+    "options": [
+      "Leonardo da Vinci",
+      "Sandro Botticelli",
+      "Raphael",
+      "Michelangelo"
+    ],
+    "answer": "Sandro Botticelli"
+  },
+  {
+    "id": 16,
+    "question": "Which artist is associated with the phrase 'art for art's sake'?",
+    "options": [
+      "Paul Gauguin",
+      "Oscar Wilde",
+      "John Keats",
+      "Edgar Degas"
+    ],
+    "answer": "Oscar Wilde"
+  },
+  {
+    "id": 17,
+    "question": "What type of painting technique uses small dots of color?",
+    "options": [
+      "Pointillism",
+      "Impressionism",
+      "Fresco",
+      "Acrylic"
+    ],
+    "answer": "Pointillism"
+  },
+  {
+    "id": 18,
+    "question": "Which artist is known for his works on the human condition and social issues?",
+    "options": [
+      "Vincent van Gogh",
+      "Jean-Michel Basquiat",
+      "Pablo Picasso",
+      "Henri Matisse"
+    ],
+    "answer": "Jean-Michel Basquiat"
+  },
+  {
+    "id": 19,
+    "question": "What is the term for a painting of inanimate objects?",
+    "options": [
+      "Abstract",
+      "Portrait",
+      "Still life",
+      "Landscape"
+    ],
+    "answer": "Still life"
+  },
+  {
+    "id": 20,
+    "question": "Which artist is famous for his drip paintings?",
+    "options": [
+      "Mark Rothko",
+      "Willem de Kooning",
+      "Jackson Pollock",
+      "Andy Warhol"
+    ],
+    "answer": "Jackson Pollock"
+  },
+  {
+    "id": 21,
+    "question": "Which artist is known for the painting 'Guernica'?",
+    "options": [
+      "Pablo Picasso",
+      "Salvador Dalí",
+      "Henri Matisse",
+      "Frida Kahlo"
+    ],
+    "answer": "Pablo Picasso"
+  },
+  {
+    "id": 22,
+    "question": "What is the primary focus of Impressionism?",
+    "options": [
+      "Historical events",
+      "Realism",
+      "Light and its changing qualities",
+      "Abstract forms"
+    ],
+    "answer": "Light and its changing qualities"
+  },
+  {
+    "id": 23,
+    "question": "Who painted 'The Last Supper'?",
+    "options": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Raphael",
+      "Caravaggio"
+    ],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "id": 24,
+    "question": "What is the term for a painting that depicts a view of the outdoors?",
+    "options": [
+      "Still life",
+      "Landscape",
+      "Portrait",
+      "Abstract"
+    ],
+    "answer": "Landscape"
+  },
+  {
+    "id": 25,
+    "question": "Which artist is known for his colorful, abstract works and was a leader of the Color Field movement?",
+    "options": [
+      "Mark Rothko",
+      "Jackson Pollock",
+      "Willem de Kooning",
+      "Andy Warhol"
+    ],
+    "answer": "Mark Rothko"
+  },
+  {
+    "id": 26,
+    "question": "What is the primary characteristic of Baroque art?",
+    "options": [
+      "Simplicity",
+      "Dramatic use of light and shadow",
+      "Geometric shapes",
+      "Flat surfaces"
+    ],
+    "answer": "Dramatic use of light and shadow"
+  },
+  {
+    "id": 27,
+    "question": "Which artist is known for his work with the 'Blue Period'?",
+    "options": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Henri Matisse",
+      "Claude Monet"
+    ],
+    "answer": "Pablo Picasso"
+  },
+  {
+    "id": 28,
+    "question": "What is the term for a painting made with wax pigments?",
+    "options": [
+      "Encaustic",
+      "Oil",
+      "Acrylic",
+      "Watercolor"
+    ],
+    "answer": "Encaustic"
+  },
+  {
+    "id": 29,
+    "question": "Which artist is known for the painting 'American Gothic'?",
+    "options": [
+      "Edward Hopper",
+      "Grant Wood",
+      "Georgia O'Keeffe",
+      "Andrew Wyeth"
+    ],
+    "answer": "Grant Wood"
+  },
+  {
+    "id": 30,
+    "question": "What is the primary focus of Surrealism?",
+    "options": [
+      "Realism",
+      "Dreams and the unconscious",
+      "Historical events",
+      "Nature"
+    ],
+    "answer": "Dreams and the unconscious"
+  },
+  {
+    "id": 31,
+    "question": "Who painted 'The Girl with a Pearl Earring'?",
+    "options": [
+      "Johannes Vermeer",
+      "Rembrandt",
+      "Vincent van Gogh",
+      "Claude Monet"
+    ],
+    "answer": "Johannes Vermeer"
+  },
+  {
+    "id": 32,
+    "question": "What is the term for a three-dimensional work of art?",
+    "options": [
+      "Painting",
+      "Sculpture",
+      "Mosaic",
+      "Fresco"
+    ],
+    "answer": "Sculpture"
+  },
+  {
+    "id": 33,
+    "question": "Which artist is known for his work 'The Kiss'?",
+    "options": [
+      "Gustav Klimt",
+      "Henri Matisse",
+      "Pablo Picasso",
+      "Edvard Munch"
+    ],
+    "answer": "Gustav Klimt"
+  },
+  {
+    "id": 34,
+    "question": "What is the primary focus of Pop Art?",
+    "options": [
+      "Abstract forms",
+      "Popular culture and consumerism",
+      "Nature",
+      "Historical events"
+    ],
+    "answer": "Popular culture and consumerism"
+  },
+  {
+    "id": 35,
+    "question": "Who is known for the painting 'The Creation of Adam'?",
+    "options": [
+      "Raphael",
+      "Michelangelo",
+      "Leonardo da Vinci",
+      "Donatello"
+    ],
+    "answer": "Michelangelo"
+  },
+  {
+    "id": 36,
+    "question": "Which artist is famous for his paintings of water lilies?",
+    "options": [
+      "Claude Monet",
+      "Vincent van Gogh",
+      "Paul Cézanne",
+      "Henri Matisse"
+    ],
+    "answer": "Claude Monet"
+  },
+  {
+    "id": 37,
+    "question": "What is the term for a painting that depicts a person?",
+    "options": [
+      "Still life",
+      "Landscape",
+      "Portrait",
+      "Abstract"
+    ],
+    "answer": "Portrait"
+  },
+  {
+    "id": 38,
+    "question": "Which artist is known for his use of color and light in his landscapes?",
+    "options": [
+      "Vincent van Gogh",
+      "Claude Monet",
+      "Georgia O'Keeffe",
+      "Pablo Picasso"
+    ],
+    "answer": "Claude Monet"
+  },
+  {
+    "id": 39,
+    "question": "What is the primary characteristic of Romanticism?",
+    "options": [
+      "Focus on reason and logic",
+      "Emphasis on emotion and individualism",
+      "Geometric shapes",
+      "Flat surfaces"
+    ],
+    "answer": "Emphasis on emotion and individualism"
+  },
+  {
+    "id": 40,
+    "question": "Which artist is known for his work 'The Night Watch'?",
+    "options": [
+      "Rembrandt",
+      "Johannes Vermeer",
+      "Vincent van Gogh",
+      "Pablo Picasso"
+    ],
+    "answer": "Rembrandt"
+  },
+  {
+    "id": 41,
+    "question": "What is the term for a painting that depicts a scene from nature?",
+    "options": [
+      "Landscape",
+      "Still life",
+      "Portrait",
+      "Abstract"
+    ],
+    "answer": "Landscape"
+  },
+  {
+    "id": 42,
+    "question": "Which artist is known for his work 'The Arnolfini Portrait'?",
+    "options": [
+      "Jan van Eyck",
+      "Rembrandt",
+      "Michelangelo",
+      "Pablo Picasso"
+    ],
+    "answer": "Jan van Eyck"
+  },
+  {
+    "id": 43,
+    "question": "What is the primary focus of Expressionism?",
+    "options": [
+      "Realism",
+      "Emotional experience",
+      "Historical events",
+      "Nature"
+    ],
+    "answer": "Emotional experience"
+  },
+  {
+    "id": 44,
+    "question": "Who painted 'The School of Athens'?",
+    "options": [
+      "Raphael",
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Caravaggio"
+    ],
+    "answer": "Raphael"
+  },
+  {
+    "id": 45,
+    "question": "Which artist is known for the painting 'The Kiss'?",
+    "options": [
+      "Gustav Klimt",
+      "Henri Matisse",
+      "Pablo Picasso",
+      "Edvard Munch"
+    ],
+    "answer": "Gustav Klimt"
+  },
+  {
+    "id": 46,
+    "question": "What is the term for a painting that uses only one color?",
+    "options": [
+      "Monochromatic",
+      "Polychromatic",
+      "Complementary",
+      "Analogous"
+    ],
+    "answer": "Monochromatic"
+  },
+  {
+    "id": 47,
+    "question": "Which artist is known for his work 'The Great Wave off Kanagawa'?",
+    "options": [
+      "Hokusai",
+      "Katsushika Hokusai",
+      "Yayoi Kusama",
+      "Takashi Murakami"
+    ],
+    "answer": "Katsushika Hokusai"
+  },
+  {
+    "id": 48,
+    "question": "What is the primary characteristic of Neo-Classicism?",
+    "options": [
+      "Focus on emotion and individualism",
+      "Revival of classical styles and themes",
+      "Use of geometric shapes",
+      "Flat surfaces"
+    ],
+    "answer": "Revival of classical styles and themes"
+  },
+  {
+    "id": 49,
+    "question": "Which artist is known for his paintings of the American West?",
+    "options": [
+      "Georgia O'Keeffe",
+      "Frederic Remington",
+      "Edward Hopper",
+      "Thomas Hart Benton"
+    ],
+    "answer": "Georgia O'Keeffe"
+  },
+  {
+    "id": 50,
+    "question": "What is the term for a painting that depicts a scene from mythology?",
+    "options": [
+      "Historical",
+      "Mythological",
+      "Abstract",
+      "Portrait"
+    ],
+    "answer": "Mythological"
+  },
+  {
+    "id": 51,
+    "question": "Who painted 'The Last Judgment'?",
+    "options": [
+      "Michelangelo",
+      "Leonardo da Vinci",
+      "Raphael",
+      "Caravaggio"
+    ],
+    "answer": "Michelangelo"
+  },
+  {
+    "id": 52,
+    "question": "What is the primary focus of Dadaism?",
+    "options": [
+      "Realism",
+      "Nonsense and absurdity",
+      "Historical events",
+      "Nature"
+    ],
+    "answer": "Nonsense and absurdity"
+  },
+  {
+    "id": 53,
+    "question": "Which artist is known for his work 'The Persistence of Memory'?",
+    "options": [
+      "Salvador Dalí",
+      "Pablo Picasso",
+      "Henri Matisse",
+      "Jackson Pollock"
+    ],
+    "answer": "Salvador Dalí"
+  },
+  {
+    "id": 54,
+    "question": "What is the term for a painting that depicts a scene from everyday life?",
+    "options": [
+      "Genre painting",
+      "Abstract",
+      "Portrait",
+      "Landscape"
+    ],
+    "answer": "Genre painting"
+  },
+  {
+    "id": 55,
+    "question": "Which artist is known for his colorful, abstract works and was a leader of the Color Field movement?",
+    "options": [
+      "Mark Rothko",
+      "Jackson Pollock",
+      "Willem de Kooning",
+      "Andy Warhol"
+    ],
+    "answer": "Mark Rothko"
+  },
+  {
+    "id": 56,
+    "question": "What is the primary characteristic of Minimalism?",
+    "options": [
+      "Complexity and detail",
+      "Simplicity and reduction",
+      "Use of bright colors",
+      "Emotional expression"
+    ],
+    "answer": "Simplicity and reduction"
+  },
+  {
+    "id": 57,
+    "question": "Who painted 'The Girl with a Pearl Earring'?",
+    "options": [
+      "Johannes Vermeer",
+      "Rembrandt",
+      "Vincent van Gogh",
+      "Claude Monet"
+    ],
+    "answer": "Johannes Vermeer"
+  }
+]
