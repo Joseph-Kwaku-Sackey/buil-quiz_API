@@ -467,5 +467,5 @@
         "question": "What is the capital of Italy?",
         "options": ["Rome", "Venice", "Florence", "Milan"],
         "answer": "Rome"
-    },
-    ]
+    }
+]
