@@ -1,4 +1,3 @@
-
 [
     {
         "id": 1,
@@ -383,6 +382,6 @@
         "question": "What is the term for the practice of increasing the money supply to stimulate economic growth?",
         "options": ["Quantitative easing", "Fiscal stimulus", "Monetary tightening", "Deflationary policy"],
         "answer": "Quantitative easing"
-    },
+    }
 ]
 
