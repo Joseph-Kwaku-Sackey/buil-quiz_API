@@ -1,0 +1,392 @@
+[
+    {
+        "id": 1,
+        "question": "What is the primary focus of sociology?",
+        "options": ["Study of human behavior in society", "Study of economic systems", "Study of biological processes", "Study of physical geography"],
+        "answer": "Study of human behavior in society"
+    },
+    {
+        "id": 2,
+        "question": "Who is considered the father of sociology?",
+        "options": ["Max Weber", "Karl Marx", "Auguste Comte", "Emile Durkheim"],
+        "answer": "Auguste Comte"
+    },
+    {
+        "id": 3,
+        "question": "What is the term for a group of people who share a common culture?",
+        "options": ["Society", "Community", "Subculture", "Ethnic group"],
+        "answer": "Ethnic group"
+    },
+    {
+        "id": 4,
+        "question": "What is the sociological perspective that focuses on the meanings individuals attach to their social world?",
+        "options": ["Functionalism", "Conflict theory", "Symbolic interactionism", "Structuralism"],
+        "answer": "Symbolic interactionism"
+    },
+    {
+        "id": 5,
+        "question": "What is the term for the process by which individuals learn and internalize the values and norms of their society?",
+        "options": ["Socialization", "Assimilation", "Acculturation", "Integration"],
+        "answer": "Socialization"
+    },
+    {
+        "id": 6,
+        "question": "Which sociologist is known for his study of suicide and its social factors?",
+        "options": ["Emile Durkheim", "Max Weber", "Karl Marx", "Herbert Spencer"],
+        "answer": "Emile Durkheim"
+    },
+    {
+        "id": 7,
+        "question": "What is the term for a social position that a person occupies?",
+        "options": ["Status", "Role", "Identity", "Norm"],
+        "answer": "Status"
+    },
+    {
+        "id": 8,
+        "question": "What is the concept of 'anomie' as defined by Durkheim?",
+        "options": ["A state of normlessness", "A type of social cohesion", "A form of social control", "An economic theory"],
+        "answer": "A state of normlessness"
+    },
+    {
+        "id": 9,
+        "question": "What is the term for the unequal distribution of resources and opportunities in society?",
+        "options": ["Social stratification", "Social mobility", "Social inequality", "Social cohesion"],
+        "answer": "Social inequality"
+    },
+    {
+        "id": 10,
+        "question": "What is the primary focus of conflict theory?",
+        "options": ["Stability and order", "Social change and power dynamics", "Cultural norms", "Individual behavior"],
+        "answer": "Social change and power dynamics"
+    },
+    {
+        "id": 11,
+        "question": "What is the term for the shared beliefs, values, and practices of a group?",
+        "options": ["Culture", "Society", "Community", "Subculture"],
+        "answer": "Culture"
+    },
+    {
+        "id": 12,
+        "question": "Which sociological perspective emphasizes the role of institutions in maintaining social order?",
+        "options": ["Functionalism", "Symbolic interactionism", "Conflict theory", "Postmodernism"],
+        "answer": "Functionalism"
+    },
+    {
+        "id": 13,
+        "question": "What is the term for a group that serves as a standard for judging one's own behavior?",
+        "options": ["Reference group", "In-group", "Out-group", "Primary group"],
+        "answer": "Reference group"
+    },
+    {
+        "id": 14,
+        "question": "What is the process by which a minority group adopts the customs and attitudes of the prevailing culture?",
+        "options": ["Assimilation", "Integration", "Segregation", "Cultural diffusion"],
+        "answer": "Assimilation"
+    },
+    {
+        "id": 15,
+        "question": "What is the term for a social group characterized by close, personal relationships?",
+        "options": ["Primary group", "Secondary group", "Reference group", "Aggregate"],
+        "answer": "Primary group"
+    },
+    {
+        "id": 16,
+        "question": "Which term describes a social system in which individuals are ranked according to their access to resources?",
+        "options": ["Social stratification", "Social mobility", "Social status", "Social class"],
+        "answer": "Social stratification"
+    },
+    {
+        "id": 17,
+        "question": "What is the term for the expectations and behaviors associated with a particular social status?",
+        "options": ["Role", "Status", "Identity", "Norm"],
+        "answer": "Role"
+    },
+    {
+        "id": 18,
+        "question": "What is the term for the study of human behavior in social contexts?",
+        "options": ["Psychology", "Sociology", "Anthropology", "Economics"],
+        "answer": "Sociology"
+    },
+    {
+        "id": 19,
+        "question": "What is the term for a social phenomenon where individuals act differently when they are in a group?",
+        "options": ["Groupthink", "Social facilitation", "Deindividuation", "Social loafing"],
+        "answer": "Deindividuation"
+    },
+    {
+        "id": 20,
+        "question": "What is the primary focus of feminist sociology?",
+        "options": ["Gender inequality and social roles", "Economic systems", "Cultural norms", "Political structures"],
+        "answer": "Gender inequality and social roles"
+    },
+    {
+        "id": 21,
+        "question": "What is the term for the process of adapting to a new culture?",
+        "options": ["Acculturation", "Assimilation", "Integration", "Socialization"],
+        "answer": "Acculturation"
+    },
+    {
+        "id": 22,
+        "question": "Which sociologist is known for his work on the sociology of religion?",
+        "options": ["Max Weber", "Emile Durkheim", "Karl Marx", "Herbert Spencer"],
+        "answer": "Max Weber"
+    },
+    {
+        "id": 23,
+        "question": "What is the term for a group that is excluded from mainstream society?",
+        "options": ["Marginalized group", "In-group", "Out-group", "Subculture"],
+        "answer": "Marginalized group"
+    },
+    {
+        "id": 24,
+        "question": "What is the term for the social process by which individuals learn and internalize the values and norms of their society?",
+        "options": ["Socialization", "Cultural diffusion", "Assimilation", "Integration"],
+        "answer": "Socialization"
+    },
+    {
+        "id": 25,
+        "question": "What is the term for a social structure that is organized around the family?",
+        "options": ["Kinship system", "Social hierarchy", "Caste system", "Social class"],
+        "answer": "Kinship system"
+    },
+    {
+        "id": 26,
+        "question": "What is the term for the unequal distribution of wealth, power, and prestige in society?",
+        "options": ["Social stratification", "Social mobility", "Social inequality", "Social cohesion"],
+        "answer": "Social inequality"
+    },
+    {
+        "id": 27,
+        "question": "What is the term for a social group that shares common interests or characteristics?",
+        "options": ["Community", "Society", "Collective", "Network"],
+        "answer": "Community"
+    },
+    {
+        "id": 28,
+        "question": "What is the term for the study of how social institutions affect individuals?",
+        "options": ["Social psychology", "Cultural sociology", "Institutional sociology", "Political sociology"],
+        "answer": "Institutional sociology"
+    },
+    {
+        "id": 29,
+        "question": "What is the term for the process of changing social norms and values over time?",
+        "options": ["Social change", "Cultural diffusion", "Socialization", "Acculturation"],
+        "answer": "Social change"
+    },
+    {
+        "id": 30,
+        "question": "What is the term for a social system where individuals are ranked based on their social status?",
+        "options": ["Social stratification", "Social mobility", "Social hierarchy", "Social class"],
+        "answer": "Social hierarchy"
+    },
+    {
+        "id": 31,
+        "question": "What is the term for the shared beliefs and practices of a group?",
+        "options": ["Culture", "Society", "Community", "Subculture"],
+        "answer": "Culture"
+    },
+    {
+        "id": 32,
+        "question": "What is the term for the process of integrating individuals from different cultures into a single society?",
+        "options": ["Assimilation", "Acculturation", "Integration", "Socialization"],
+        "answer": "Integration"
+    },
+    {
+        "id": 33,
+        "question": "What is the term for the study of social behavior and society?",
+        "options": ["Sociology", "Psychology", "Anthropology", "Economics"],
+        "answer": "Sociology"
+    },
+    {
+        "id": 34,
+        "question": "What is the term for the social expectations and behaviors associated with a particular status?",
+        "options": ["Role", "Status", "Identity", "Norm"],
+        "answer": "Role"
+    },
+    {
+        "id": 35,
+        "question": "What is the term for the process of learning and internalizing the norms of one's culture?",
+        "options": ["Socialization", "Acculturation", "Integration", "Assimilation"],
+        "answer": "Socialization"
+    },
+    {
+        "id": 36,
+        "question": "What is the term for a group of people who share a common identity?",
+        "options": ["Community", "Society", "Collective", "Subculture"],
+        "answer": "Community"
+    },
+    {
+        "id": 37,
+        "question": "What is the term for a social phenomenon where individuals act differently in a group setting?",
+        "options": ["Groupthink", "Social facilitation", "Deindividuation", "Social loafing"],
+        "answer": "Deindividuation"
+    },
+    {
+        "id": 38,
+        "question": "What is the term for a social system based on the ownership of land?",
+        "options": ["Feudalism", "Capitalism", "Socialism", "Communism"],
+        "answer": "Feudalism"
+    },
+    {
+        "id": 39,
+        "question": "What is the term for the process of adapting to a new culture?",
+        "options": ["Acculturation", "Assimilation", "Integration", "Socialization"],
+        "answer": "Acculturation"
+    },
+    {
+        "id": 40,
+        "question": "What is the term for the shared values and norms of a group?",
+        "options": ["Culture", "Society", "Community", "Subculture"],
+        "answer": "Culture"
+    },
+    {
+        "id": 41,
+        "question": "What is the term for the study of how social institutions affect individuals?",
+        "options": ["Institutional sociology", "Social psychology", "Cultural sociology", "Political sociology"],
+        "answer": "Institutional sociology"
+    },
+    {
+        "id": 42,
+        "question": "What is the term for the process of changing social norms and values over time?",
+        "options": ["Social change", "Cultural diffusion", "Socialization", "Acculturation"],
+        "answer": "Social change"
+    },
+    {
+        "id": 43,
+        "question": "What is the term for a social system where individuals are ranked based on their social status?",
+        "options": ["Social hierarchy", "Social mobility", "Social stratification", "Social class"],
+        "answer": "Social hierarchy"
+    },
+    {
+        "id": 44,
+        "question": "What is the term for the shared beliefs and practices of a group?",
+        "options": ["Culture", "Society", "Community", "Subculture"],
+        "answer": "Culture"
+    },
+    {
+        "id": 45,
+        "question": "What is the term for the process of integrating individuals from different cultures into a single society?",
+        "options": ["Assimilation", "Acculturation", "Integration", "Socialization"],
+        "answer": "Integration"
+    },
+    {
+        "id": 46,
+        "question": "What is the term for the study of social behavior and society?",
+        "options": ["Sociology", "Psychology", "Anthropology", "Economics"],
+        "answer": "Sociology"
+    },
+    {
+        "id": 47,
+        "question": "What is the term for the social expectations and behaviors associated with a particular status?",
+        "options": ["Role", "Status", "Identity", "Norm"],
+        "answer": "Role"
+    },
+    {
+        "id": 48,
+        "question": "What is the term for the process of learning and internalizing the norms of one's culture?",
+        "options": ["Socialization", "Acculturation", "Integration", "Assimilation"],
+        "answer": "Socialization"
+    },
+    {
+        "id": 49,
+        "question": "What is the term for a group of people who share a common identity?",
+        "options": ["Community", "Society", "Collective", "Subculture"],
+        "answer": "Community"
+    },
+    {
+        "id": 50,
+        "question": "What is the term for a social phenomenon where individuals act differently in a group setting?",
+        "options": ["Groupthink", "Social facilitation", "Deindividuation", "Social loafing"],
+        "answer": "Deindividuation"
+    },
+    {
+        "id": 51,
+        "question": "What is the term for a social system based on the ownership of land?",
+        "options": ["Feudalism", "Capitalism", "Socialism", "Communism"],
+        "answer": "Feudalism"
+    },
+    {
+        "id": 52,
+        "question": "What is the term for the process of adapting to a new culture?",
+        "options": ["Acculturation", "Assimilation", "Integration", "Socialization"],
+        "answer": "Acculturation"
+    },
+    {
+        "id": 53,
+        "question": "What is the term for the shared values and norms of a group?",
+        "options": ["Culture", "Society", "Community", "Subculture"],
+        "answer": "Culture"
+    },
+    {
+        "id": 54,
+        "question": "What is the term for the study of how social institutions affect individuals?",
+        "options": ["Institutional sociology", "Social psychology", "Cultural sociology", "Political sociology"],
+        "answer": "Institutional sociology"
+    },
+    {
+        "id": 55,
+        "question": "What is the term for the process of changing social norms and values over time?",
+        "options": ["Social change", "Cultural diffusion", "Socialization", "Acculturation"],
+        "answer": "Social change"
+    },
+    {
+        "id": 56,
+        "question": "What is the term for a social system where individuals are ranked based on their social status?",
+        "options": ["Social hierarchy", "Social mobility", "Social stratification", "Social class"],
+        "answer": "Social hierarchy"
+    },
+    {
+        "id": 57,
+        "question": "What is the term for the shared beliefs and practices of a group?",
+        "options": ["Culture", "Society", "Community", "Subculture"],
+        "answer": "Culture"
+    },
+    {
+        "id": 58,
+        "question": "What is the term for the process of integrating individuals from different cultures into a single society?",
+        "options": ["Assimilation", "Acculturation", "Integration", "Socialization"],
+        "answer": "Integration"
+    },
+    {
+        "id": 59,
+        "question": "What is the term for the study of social behavior and society?",
+        "options": ["Sociology", "Psychology", "Anthropology", "Economics"],
+        "answer": "Sociology"
+    },
+    {
+        "id": 60,
+        "question": "What is the term for the social expectations and behaviors associated with a particular status?",
+        "options": ["Role", "Status", "Identity", "Norm"],
+        "answer": "Role"
+    },
+    {
+        "id": 61,
+        "question": "What is the term for the process of learning and internalizing the norms of one's culture?",
+        "options": ["Socialization", "Acculturation", "Integration", "Assimilation"],
+        "answer": "Socialization"
+    },
+    {
+        "id": 62,
+        "question": "What is the term for a group of people who share a common identity?",
+        "options": ["Community", "Society", "Collective", "Subculture"],
+        "answer": "Community"
+    },
+    {
+        "id": 63,
+        "question": "What is the term for a social phenomenon where individuals act differently in a group setting?",
+        "options": ["Groupthink", "Social facilitation", "Deindividuation", "Social loafing"],
+        "answer": "Deindividuation"
+    },
+    {
+        "id": 64,
+        "question": "What is the term for a social system based on the ownership of land?",
+        "options": ["Feudalism", "Capitalism", "Socialism", "Communism"],
+        "answer": "Feudalism"
+    },
+    {
+        "id": 65,
+        "question": "What is the term for the process of adapting to a new culture?",
+        "options": ["Acculturation", "Assimilation", "Integration", "Socialization"],
+        "answer": "Acculturation"
+    }
+]
