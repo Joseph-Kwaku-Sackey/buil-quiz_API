@@ -1,0 +1,386 @@
+[
+    {
+        "id": 1,
+        "question": "Who was the first President of the United States?",
+        "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+        "answer": "George Washington"
+    },
+    {
+        "id": 2,
+        "question": "What year did World War II begin?",
+        "options": ["1939", "1941", "1945", "1937"],
+        "answer": "1939"
+    },
+    {
+        "id": 3,
+        "question": "Which ancient civilization built the pyramids?",
+        "options": ["Romans", "Greeks", "Egyptians", "Mayans"],
+        "answer": "Egyptians"
+    },
+    {
+        "id": 4,
+        "question": "Who was known as the 'Maid of Orléans'?",
+        "options": ["Marie Antoinette", "Joan of Arc", "Catherine de Medici", "Cleopatra"],
+        "answer": "Joan of Arc"
+    },
+    {
+        "id": 5,
+        "question": "What was the primary cause of the American Civil War?",
+        "options": ["Slavery", "States' rights", "Economic differences", "Territorial expansion"],
+        "answer": "Slavery"
+    },
+    {
+        "id": 6,
+        "question": "Which empire was known for its road system and communication networks?",
+        "options": ["Roman Empire", "Ottoman Empire", "Mongol Empire", "British Empire"],
+        "answer": "Roman Empire"
+    },
+    {
+        "id": 7,
+        "question": "Who discovered penicillin?",
+        "options": ["Louis Pasteur", "Alexander Fleming", "Marie Curie", "Thomas Edison"],
+        "answer": "Alexander Fleming"
+    },
+    {
+        "id": 8,
+        "question": "What was the main purpose of the Berlin Wall?",
+        "options": ["To divide East and West Berlin", "To protect against invasions", "To control trade", "To enforce immigration laws"],
+        "answer": "To divide East and West Berlin"
+    },
+    {
+        "id": 9,
+        "question": "Which document declared the independence of the United States?",
+        "options": ["The Constitution", "The Bill of Rights", "The Declaration of Independence", "The Articles of Confederation"],
+        "answer": "The Declaration of Independence"
+    },
+    {
+        "id": 10,
+        "question": "What was the main outcome of the Treaty of Versailles?",
+        "options": ["End of World War I", "Start of World War II", "Formation of the United Nations", "Establishment of NATO"],
+        "answer": "End of World War I"
+    },
+    {
+        "id": 11,
+        "question": "Who was the first female Prime Minister of the United Kingdom?",
+        "options": ["Margaret Thatcher", "Theresa May", "Angela Merkel", "Indira Gandhi"],
+        "answer": "Margaret Thatcher"
+    },
+    {
+        "id": 12,
+        "question": "What year did the Titanic sink?",
+        "options": ["1912", "1905", "1920", "1915"],
+        "answer": "1912"
+    },
+    {
+        "id": 13,
+        "question": "Which war was fought between the North and South regions in the United States?",
+        "options": ["World War I", "The Civil War", "The Revolutionary War", "The War of 1812"],
+        "answer": "The Civil War"
+    },
+    {
+        "id": 14,
+        "question": "What was the main reason for the fall of the Roman Empire?",
+        "options": ["Economic troubles", "Barbarian invasions", "Political corruption", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "id": 15,
+        "question": "Who was the leader of the Soviet Union during World War II?",
+        "options": ["Joseph Stalin", "Leon Trotsky", "Vladimir Lenin", "Nikita Khrushchev"],
+        "answer": "Joseph Stalin"
+    },
+    {
+        "id": 16,
+        "question": "Which ancient civilization is known for its pyramids and pharaohs?",
+        "options": ["Mesopotamia", "Egypt", "Greece", "Rome"],
+        "answer": "Egypt"
+    },
+    {
+        "id": 17,
+        "question": "What was the primary purpose of the Great Wall of China?",
+        "options": ["To protect against invasions", "To control trade", "To mark territory", "To promote tourism"],
+        "answer": "To protect against invasions"
+    },
+    {
+        "id": 18,
+        "question": "Who was the first person to circumnavigate the globe?",
+        "options": ["Ferdinand Magellan", "Christopher Columbus", "James Cook", "Marco Polo"],
+        "answer": "Ferdinand Magellan"
+    },
+    {
+        "id": 19,
+        "question": "What year did the Berlin Wall fall?",
+        "options": ["1989", "1991", "1987", "1990"],
+        "answer": "1989"
+    },
+    {
+        "id": 20,
+        "question": "Which country was the first to grant women the right to vote?",
+        "options": ["New Zealand", "United States", "United Kingdom", "Australia"],
+        "answer": "New Zealand"
+    },
+    {
+        "id": 21,
+        "question": "Who was the famous civil rights leader known for his 'I Have a Dream' speech?",
+        "options": ["Malcolm X", "Martin Luther King Jr.", "Rosa Parks", "Frederick Douglass"],
+        "answer": "Martin Luther King Jr."
+    },
+    {
+        "id": 22,
+        "question": "What was the main cause of the French Revolution?",
+        "options": ["Economic hardship", "Political corruption", "Social inequality", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "id": 23,
+        "question": "Which empire was known for its extensive road system and communication networks?",
+        "options": ["Roman Empire", "Ottoman Empire", "Mongol Empire", "British Empire"],
+        "answer": "Roman Empire"
+    },
+    {
+        "id": 24,
+        "question": "What was the primary purpose of the Marshall Plan?",
+        "options": ["To rebuild Europe after World War II", "To promote communism", "To establish NATO", "To support decolonization"],
+        "answer": "To rebuild Europe after World War II"
+    },
+    {
+        "id": 25,
+        "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+        "options": ["Amelia Earhart", "Bessie Coleman", "Harriet Quimby", "Jacqueline Cochran"],
+        "answer": "Amelia Earhart"
+    },
+    {
+        "id": 26,
+        "question": "What was the main outcome of the American Revolution?",
+        "options": ["Independence from Britain", "Formation of the United States", "Establishment of a monarchy", "All of the above"],
+        "answer": "Independence from Britain"
+    },
+    {
+        "id": 27,
+        "question": "Which historical figure is known for his role in the abolition of slavery in the United States?",
+        "options": ["Abraham Lincoln", "Frederick Douglass", "Harriet Tubman", "Sojourner Truth"],
+        "answer": "Abraham Lincoln"
+    },
+    {
+        "id": 28,
+        "question": "What was the primary cause of the Cold War?",
+        "options": ["Ideological differences", "Territorial disputes", "Economic competition", "Military conflicts"],
+        "answer": "Ideological differences"
+    },
+    {
+        "id": 29,
+        "question": "Which document served as the first constitution of the United States?",
+        "options": ["The Articles of Confederation", "The Constitution", "The Bill of Rights", "The Declaration of Independence"],
+        "answer": "The Articles of Confederation"
+    },
+    {
+        "id": 30,
+        "question": "Who was the famous leader of the Indian independence movement?",
+        "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Subhas Chandra Bose", "Bhagat Singh"],
+        "answer": "Mahatma Gandhi"
+    },
+    {
+        "id": 31,
+        "question": "What was the main purpose of the United Nations when it was founded?",
+        "options": ["To promote international cooperation", "To establish a world government", "To regulate trade", "To prevent wars"],
+        "answer": "To promote international cooperation"
+    },
+    {
+        "id": 32,
+        "question": "Which war was fought between the North and South regions in the United States?",
+        "options": ["World War I", "The Civil War", "The Revolutionary War", "The War of 1812"],
+        "answer": "The Civil War"
+    },
+    {
+        "id": 33,
+        "question": "What was the main cause of the Great Depression?",
+        "options": ["Stock market crash", "World War I", "Dust Bowl", "High unemployment"],
+        "answer": "Stock market crash"
+    },
+    {
+        "id": 34,
+        "question": "Who was the first President of the United States?",
+        "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+        "answer": "George Washington"
+    },
+    {
+        "id": 35,
+        "question": "What year did the United States land the first man on the moon?",
+        "options": ["1969", "1971", "1965", "1970"],
+        "answer": "1969"
+    },
+    {
+        "id": 36,
+        "question": "What was the primary purpose of the Berlin Wall?",
+        "options": ["To divide East and West Berlin", "To protect against invasions", "To control trade", "To enforce immigration laws"],
+        "answer": "To divide East and West Berlin"
+    },
+    {
+        "id": 37,
+        "question": "Which ancient civilization is known for its pyramids and pharaohs?",
+        "options": ["Mesopotamia", "Egypt", "Greece", "Rome"],
+        "answer": "Egypt"
+    },
+    {
+        "id": 38,
+        "question": "Who was known as the 'Maid of Orléans'?",
+        "options": ["Marie Antoinette", "Joan of Arc", "Catherine de Medici", "Cleopatra"],
+        "answer": "Joan of Arc"
+    },
+    {
+        "id": 39,
+        "question": "What was the primary cause of the American Civil War?",
+        "options": ["Slavery", "States' rights", "Economic differences", "Territorial expansion"],
+        "answer": "Slavery"
+    },
+    {
+        "id": 40,
+        "question": "Which empire was known for its extensive road system and communication networks?",
+        "options": ["Roman Empire", "Ottoman Empire", "Mongol Empire", "British Empire"],
+        "answer": "Roman Empire"
+    },
+    {
+        "id": 41,
+        "question": "Who discovered penicillin?",
+        "options": ["Louis Pasteur", "Alexander Fleming", "Marie Curie", "Thomas Edison"],
+        "answer": "Alexander Fleming"
+    },
+    {
+        "id": 42,
+        "question": "What year did World War II begin?",
+        "options": ["1939", "1941", "1945", "1937"],
+        "answer": "1939"
+    },
+    {
+        "id": 43,
+        "question": "Which treaty ended World War I?",
+        "options": ["Treaty of Versailles", "Treaty of Paris", "Treaty of Ghent", "Treaty of Trianon"],
+        "answer": "Treaty of Versailles"
+    },
+    {
+        "id": 44,
+        "question": "What was the main outcome of the American Revolution?",
+        "options": ["Independence from Britain", "Formation of the United States", "Establishment of a monarchy", "All of the above"],
+        "answer": "Independence from Britain"
+    },
+    {
+        "id": 45,
+        "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+        "options": ["Amelia Earhart", "Bessie Coleman", "Harriet Quimby", "Jacqueline Cochran"],
+        "answer": "Amelia Earhart"
+    },
+    {
+        "id": 46,
+        "question": "What was the primary purpose of the Marshall Plan?",
+        "options": ["To rebuild Europe after World War II", "To promote communism", "To establish NATO", "To support decolonization"],
+        "answer": "To rebuild Europe after World War II"
+    },
+    {
+        "id": 47,
+        "question": "Who was the famous civil rights leader known for his 'I Have a Dream' speech?",
+        "options": ["Malcolm X", "Martin Luther King Jr.", "Rosa Parks", "Frederick Douglass"],
+        "answer": "Martin Luther King Jr."
+    },
+    {
+        "id": 48,
+        "question": "What was the main cause of the French Revolution?",
+        "options": ["Economic hardship", "Political corruption", "Social inequality", "All of the above"],
+        "answer": "All of the above"
+    },
+    {
+        "id": 49,
+        "question": "Which document served as the first constitution of the United States?",
+        "options": ["The Articles of Confederation", "The Constitution", "The Bill of Rights", "The Declaration of Independence"],
+        "answer": "The Articles of Confederation"
+    },
+    {
+        "id": 50,
+        "question": "Who was the famous leader of the Indian independence movement?",
+        "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Subhas Chandra Bose", "Bhagat Singh"],
+        "answer": "Mahatma Gandhi"
+    },
+    {
+        "id": 51,
+        "question": "What was the primary focus of the United Nations when it was founded?",
+        "options": ["To promote international cooperation", "To establish a world government", "To regulate trade", "To prevent wars"],
+        "answer": "To promote international cooperation"
+    },
+    {
+        "id": 52,
+        "question": "Which war was fought between the North and South regions in the United States?",
+        "options": ["World War I", "The Civil War", "The Revolutionary War", "The War of 1812"],
+        "answer": "The Civil War"
+    },
+    {
+        "id": 53,
+        "question": "What was the main cause of the Great Depression?",
+        "options": ["Stock market crash", "World War I", "Dust Bowl", "High unemployment"],
+        "answer": "Stock market crash"
+    },
+    {
+        "id": 54,
+        "question": "Who was the first President of the United States?",
+        "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+        "answer": "George Washington"
+    },
+    {
+        "id": 55,
+        "question": "What year did the United States land the first man on the moon?",
+        "options": ["1969", "1971", "1965", "1970"],
+        "answer": "1969"
+    },
+    {
+        "id": 56,
+        "question": "What was the primary purpose of the Berlin Wall?",
+        "options": ["To divide East and West Berlin", "To protect against invasions", "To control trade", "To enforce immigration laws"],
+        "answer": "To divide East and West Berlin"
+    },
+    {
+        "id": 57,
+        "question": "Which ancient civilization is known for its pyramids and pharaohs?",
+        "options": ["Mesopotamia", "Egypt", "Greece", "Rome"],
+        "answer": "Egypt"
+    },
+    {
+        "id": 58,
+        "question": "Who was known as the 'Maid of Orléans'?",
+        "options": ["Marie Antoinette", "Joan of Arc", "Catherine de Medici", "Cleopatra"],
+        "answer": "Joan of Arc"
+    },
+    {
+        "id": 59,
+        "question": "What was the primary cause of the American Civil War?",
+        "options": ["Slavery", "States' rights", "Economic differences", "Territorial expansion"],
+        "answer": "Slavery"
+    },
+    {
+        "id": 60,
+        "question": "Which empire was known for its extensive road system and communication networks?",
+        "options": ["Roman Empire", "Ottoman Empire", "Mongol Empire", "British Empire"],
+        "answer": "Roman Empire"
+    },
+    {
+        "id": 61,
+        "question": "Who discovered penicillin?",
+        "options": ["Louis Pasteur", "Alexander Fleming", "Marie Curie", "Thomas Edison"],
+        "answer": "Alexander Fleming"
+    },
+    {
+        "id": 62,
+        "question": "What year did World War II begin?",
+        "options": ["1939", "1941", "1945", "1937"],
+        "answer": "1939"
+    },
+    {
+        "id": 63,
+        "question": "Which treaty ended World War I?",
+        "options": ["Treaty of Versailles", "Treaty of Paris", "Treaty of Ghent", "Treaty of Trianon"],
+        "answer": "Treaty of Versailles"
+    },
+    {
+        "id": 64,
+        "question": "What was the main outcome of the American Revolution?",
+        "options": ["Independence from Britain", "Formation of the United States", "Establishment of a monarchy", "All of the above"],
+        "answer": "Independence from Britain"
+    }
+]
