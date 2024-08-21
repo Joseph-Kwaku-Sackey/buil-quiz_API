@@ -1,0 +1,629 @@
+[
+  {
+    "id": 1,
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "options": [
+      "Jane Austen",
+      "Charlotte Brontë",
+      "Emily Brontë",
+      "Mary Shelley"
+    ],
+    "answer": "Jane Austen"
+  },
+  {
+    "id": 2,
+    "question": "What is the main theme of George Orwell's '1984'?",
+    "options": [
+      "Freedom and oppression",
+      "Love and betrayal",
+      "War and peace",
+      "Friendship"
+    ],
+    "answer": "Freedom and oppression"
+  },
+  {
+    "id": 3,
+    "question": "In which novel would you find the character Jay Gatsby?",
+    "options": [
+      "To Kill a Mockingbird",
+      "The Great Gatsby",
+      "Moby Dick",
+      "The Catcher in the Rye"
+    ],
+    "answer": "The Great Gatsby"
+  },
+  {
+    "id": 4,
+    "question": "Who is the author of 'The Catcher in the Rye'?",
+    "options": [
+      "J.D. Salinger",
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "Mark Twain"
+    ],
+    "answer": "J.D. Salinger"
+  },
+  {
+    "id": 5,
+    "question": "What genre does 'The Odyssey' belong to?",
+    "options": [
+      "Epic poetry",
+      "Tragedy",
+      "Comedy",
+      "Novel"
+    ],
+    "answer": "Epic poetry"
+  },
+  {
+    "id": 6,
+    "question": "Which of the following novels was written by Charles Dickens?",
+    "options": [
+      "Wuthering Heights",
+      "Great Expectations",
+      "Jane Eyre",
+      "The Picture of Dorian Gray"
+    ],
+    "answer": "Great Expectations"
+  },
+  {
+    "id": 7,
+    "question": "What is the main setting of 'Moby Dick'?",
+    "options": [
+      "A farm",
+      "A ship",
+      "A city",
+      "A desert"
+    ],
+    "answer": "A ship"
+  },
+  {
+    "id": 8,
+    "question": "Who wrote the play 'Hamlet'?",
+    "options": [
+      "William Shakespeare",
+      "Christopher Marlowe",
+      "Tennessee Williams",
+      "Arthur Miller"
+    ],
+    "answer": "William Shakespeare"
+  },
+  {
+    "id": 9,
+    "question": "What is the central conflict in 'Romeo and Juliet'?",
+    "options": [
+      "Family feud",
+      "War",
+      "Class struggle",
+      "Love vs. duty"
+    ],
+    "answer": "Family feud"
+  },
+  {
+    "id": 10,
+    "question": "Which author is known for the poem 'The Raven'?",
+    "options": [
+      "Walt Whitman",
+      "Emily Dickinson",
+      "Edgar Allan Poe",
+      "Robert Frost"
+    ],
+    "answer": "Edgar Allan Poe"
+  },
+  {
+    "id": 11,
+    "question": "What is the primary theme of 'The Grapes of Wrath'?",
+    "options": [
+      "The American Dream",
+      "Social injustice",
+      "Love and loss",
+      "Friendship"
+    ],
+    "answer": "Social injustice"
+  },
+  {
+    "id": 12,
+    "question": "Who wrote 'Brave New World'?",
+    "options": [
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "George Orwell",
+      "Isaac Asimov"
+    ],
+    "answer": "Aldous Huxley"
+  },
+  {
+    "id": 13,
+    "question": "What is the term for a recurring theme or motif in literature?",
+    "options": [
+      "Symbol",
+      "Allegory",
+      "Motif",
+      "Theme"
+    ],
+    "answer": "Motif"
+  },
+  {
+    "id": 14,
+    "question": "Which novel features the character Atticus Finch?",
+    "options": [
+      "The Great Gatsby",
+      "To Kill a Mockingbird",
+      "The Catcher in the Rye",
+      "Pride and Prejudice"
+    ],
+    "answer": "To Kill a Mockingbird"
+  },
+  {
+    "id": 15,
+    "question": "Who is the author of 'The Bell Jar'?",
+    "options": [
+      "Sylvia Plath",
+      "Virginia Woolf",
+      "Toni Morrison",
+      "Margaret Atwood"
+    ],
+    "answer": "Sylvia Plath"
+  },
+  {
+    "id": 16,
+    "question": "What literary device involves an exaggerated statement?",
+    "options": [
+      "Metaphor",
+      "Simile",
+      "Hyperbole",
+      "Alliteration"
+    ],
+    "answer": "Hyperbole"
+  },
+  {
+    "id": 17,
+    "question": "Which novel is set during the French Revolution?",
+    "options": [
+      "A Tale of Two Cities",
+      "War and Peace",
+      "Les Misérables",
+      "The Count of Monte Cristo"
+    ],
+    "answer": "A Tale of Two Cities"
+  },
+  {
+    "id": 18,
+    "question": "What is the main theme of 'Fahrenheit 451'?",
+    "options": [
+      "Censorship",
+      "Friendship",
+      "Love",
+      "War"
+    ],
+    "answer": "Censorship"
+  },
+  {
+    "id": 19,
+    "question": "Who wrote 'The Picture of Dorian Gray'?",
+    "options": [
+      "Oscar Wilde",
+      "Charles Dickens",
+      "George Orwell",
+      "H.G. Wells"
+    ],
+    "answer": "Oscar Wilde"
+  },
+  {
+    "id": 20,
+    "question": "What is the term for the main character in a story?",
+    "options": [
+      "Antagonist",
+      "Protagonist",
+      "Foil",
+      "Hero"
+    ],
+    "answer": "Protagonist"
+  },
+  {
+    "id": 21,
+    "question": "Which author is known for the 'Harry Potter' series?",
+    "options": [
+      "J.K. Rowling",
+      "C.S. Lewis",
+      "Philip Pullman",
+      "Suzanne Collins"
+    ],
+    "answer": "J.K. Rowling"
+  },
+  {
+    "id": 22,
+    "question": "What is the main conflict in 'The Hunger Games'?",
+    "options": [
+      "Survival",
+      "Love",
+      "Friendship",
+      "War"
+    ],
+    "answer": "Survival"
+  },
+  {
+    "id": 23,
+    "question": "Who wrote 'The Road'?",
+    "options": [
+      "Cormac McCarthy",
+      "Haruki Murakami",
+      "Don DeLillo",
+      "Philip Roth"
+    ],
+    "answer": "Cormac McCarthy"
+  },
+  {
+    "id": 24,
+    "question": "What is the term for a story that is passed down orally?",
+    "options": [
+      "Fable",
+      "Legend",
+      "Myth",
+      "Folklore"
+    ],
+    "answer": "Folklore"
+  },
+  {
+    "id": 25,
+    "question": "Which novel features the character Holden Caulfield?",
+    "options": [
+      "To Kill a Mockingbird",
+      "The Catcher in the Rye",
+      "The Great Gatsby",
+      "1984"
+    ],
+    "answer": "The Catcher in the Rye"
+  },
+  {
+    "id": 26,
+    "question": "Who is the author of 'The Handmaid's Tale'?",
+    "options": [
+      "Margaret Atwood",
+      "Toni Morrison",
+      "Virginia Woolf",
+      "Alice Walker"
+    ],
+    "answer": "Margaret Atwood"
+  },
+  {
+    "id": 27,
+    "question": "What is the main theme of 'The Road Not Taken'?",
+    "options": [
+      "Choices and consequences",
+      "Love",
+      "Nature",
+      "Time"
+    ],
+    "answer": "Choices and consequences"
+  },
+  {
+    "id": 28,
+    "question": "Which author wrote 'The Old Man and the Sea'?",
+    "options": [
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "Mark Twain",
+      "John Steinbeck"
+    ],
+    "answer": "Ernest Hemingway"
+  },
+  {
+    "id": 29,
+    "question": "What is the term for a comparison between two unlike things using 'like' or 'as'?",
+    "options": [
+      "Metaphor",
+      "Simile",
+      "Allegory",
+      "Personification"
+    ],
+    "answer": "Simile"
+  },
+  {
+    "id": 30,
+    "question": "Which novel is known for its exploration of the American Dream?",
+    "options": [
+      "The Great Gatsby",
+      "Of Mice and Men",
+      "The Grapes of Wrath",
+      "To Kill a Mockingbird"
+    ],
+    "answer": "The Great Gatsby"
+  },
+  {
+    "id": 31,
+    "question": "Who wrote 'Wuthering Heights'?",
+    "options": [
+      "Emily Brontë",
+      "Charlotte Brontë",
+      "Jane Austen",
+      "Mary Shelley"
+    ],
+    "answer": "Emily Brontë"
+  },
+  {
+    "id": 32,
+    "question": "What is the primary setting of 'The Scarlet Letter'?",
+    "options": [
+      "New York City",
+      "Boston",
+      "Philadelphia",
+      "Salem"
+    ],
+    "answer": "Boston"
+  },
+  {
+    "id": 33,
+    "question": "Which author is known for his dystopian novels, including 'Animal Farm'?",
+    "options": [
+      "George Orwell",
+      "Aldous Huxley",
+      "Ray Bradbury",
+      "Isaac Asimov"
+    ],
+    "answer": "George Orwell"
+  },
+  {
+    "id": 34,
+    "question": "What is the term for a story's underlying message or main idea?",
+    "options": [
+      "Theme",
+      "Plot",
+      "Character",
+      "Setting"
+    ],
+    "answer": "Theme"
+  },
+  {
+    "id": 35,
+    "question": "Which novel features the character Elizabeth Bennet?",
+    "options": [
+      "Pride and Prejudice",
+      "Emma",
+      "Jane Eyre",
+      "Wuthering Heights"
+    ],
+    "answer": "Pride and Prejudice"
+  },
+  {
+    "id": 36,
+    "question": "Who is the author of 'The Fault in Our Stars'?",
+    "options": [
+      "John Green",
+      "Nicholas Sparks",
+      "Rainbow Rowell",
+      "David Levithan"
+    ],
+    "answer": "John Green"
+  },
+  {
+    "id": 37,
+    "question": "What literary device involves giving human traits to non-human things?",
+    "options": [
+      "Personification",
+      "Metaphor",
+      "Simile",
+      "Hyperbole"
+    ],
+    "answer": "Personification"
+  },
+  {
+    "id": 38,
+    "question": "Which author is known for the novel 'The Color Purple'?",
+    "options": [
+      "Toni Morrison",
+      "Alice Walker",
+      "Zora Neale Hurston",
+      "Maya Angelou"
+    ],
+    "answer": "Alice Walker"
+  },
+  {
+    "id": 39,
+    "question": "What is the term for the sequence of events in a story?",
+    "options": [
+      "Plot",
+      "Setting",
+      "Theme",
+      "Character"
+    ],
+    "answer": "Plot"
+  },
+  {
+    "id": 40,
+    "question": "Which novel is set in a post-apocalyptic world?",
+    "options": [
+      "The Road",
+      "Brave New World",
+      "The Handmaid's Tale",
+      "Fahrenheit 451"
+    ],
+    "answer": "The Road"
+  },
+  {
+    "id": 41,
+    "question": "Who wrote 'The Alchemist'?",
+    "options": [
+      "Paulo Coelho",
+      "Gabriel García Márquez",
+      "Jorge Luis Borges",
+      "Mario Vargas Llosa"
+    ],
+    "answer": "Paulo Coelho"
+  },
+  {
+    "id": 42,
+    "question": "What is the main theme of 'The Bell Jar'?",
+    "options": [
+      "Mental illness",
+      "Love",
+      "Friendship",
+      "Family"
+    ],
+    "answer": "Mental illness"
+  },
+  {
+    "id": 43,
+    "question": "Which author is known for the poem 'If—'?",
+    "options": [
+      "Rudyard Kipling",
+      "W.B. Yeats",
+      "Robert Frost",
+      "T.S. Eliot"
+    ],
+    "answer": "Rudyard Kipling"
+  },
+  {
+    "id": 44,
+    "question": "What is the term for a story's time and place?",
+    "options": [
+      "Setting",
+      "Theme",
+      "Plot",
+      "Character"
+    ],
+    "answer": "Setting"
+  },
+  {
+    "id": 45,
+    "question": "Which novel features the character Hester Prynne?",
+    "options": [
+      "The Scarlet Letter",
+      "The Great Gatsby",
+      "To Kill a Mockingbird",
+      "Pride and Prejudice"
+    ],
+    "answer": "The Scarlet Letter"
+  },
+  {
+    "id": 46,
+    "question": "Who wrote 'The Road to Wigan Pier'?",
+    "options": [
+      "George Orwell",
+      "H.G. Wells",
+      "Aldous Huxley",
+      "John Steinbeck"
+    ],
+    "answer": "George Orwell"
+  },
+  {
+    "id": 47,
+    "question": "What is the main theme of 'The Kite Runner'?",
+    "options": [
+      "Redemption",
+      "Friendship",
+      "War",
+      "Love"
+    ],
+    "answer": "Redemption"
+  },
+  {
+    "id": 48,
+    "question": "Which author is known for the novel 'The Road'?",
+    "options": [
+      "Cormac McCarthy",
+      "Haruki Murakami",
+      "Don DeLillo",
+      "Philip Roth"
+    ],
+    "answer": "Cormac McCarthy"
+  },
+  {
+    "id": 49,
+    "question": "What is the term for a story that is passed down orally?",
+    "options": [
+      "Fable",
+      "Legend",
+      "Myth",
+      "Folklore"
+    ],
+    "answer": "Folklore"
+  },
+  {
+    "id": 50,
+    "question": "Which author wrote 'The Hitchhiker's Guide to the Galaxy'?",
+    "options": [
+      "Douglas Adams",
+      "Terry Pratchett",
+      "Neil Gaiman",
+      "J.K. Rowling"
+    ],
+    "answer": "Douglas Adams"
+  },
+  {
+    "id": 51,
+    "question": "What is the main theme of 'The Great Gatsby'?",
+    "options": [
+      "The American Dream",
+      "Love and loss",
+      "Friendship",
+      "War"
+    ],
+    "answer": "The American Dream"
+  },
+  {
+    "id": 52,
+    "question": "Who wrote 'The Brothers Karamazov'?",
+    "options": [
+      "Fyodor Dostoevsky",
+      "Leo Tolstoy",
+      "Anton Chekhov",
+      "Ivan Turgenev"
+    ],
+    "answer": "Fyodor Dostoevsky"
+  },
+  {
+    "id": 53,
+    "question": "What is the term for a comparison between two unlike things without using 'like' or 'as'?",
+    "options": [
+      "Simile",
+      "Metaphor",
+      "Allegory",
+      "Personification"
+    ],
+    "answer": "Metaphor"
+  },
+  {
+    "id": 54,
+    "question": "Which novel features the character Pip?",
+    "options": [
+      "Great Expectations",
+      "David Copperfield",
+      "Oliver Twist",
+      "A Tale of Two Cities"
+    ],
+    "answer": "Great Expectations"
+  },
+  {
+    "id": 55,
+    "question": "Who is the author of 'The Glass Menagerie'?",
+    "options": [
+      "Tennessee Williams",
+      "Arthur Miller",
+      "Eugene O'Neill",
+      "Edward Albee"
+    ],
+    "answer": "Tennessee Williams"
+  },
+  {
+    "id": 56,
+    "question": "What is the main theme of 'The Color Purple'?",
+    "options": [
+      "Racism",
+      "Love",
+      "Friendship",
+      "Family"
+    ],
+    "answer": "Racism"
+  },
+  {
+    "id": 57,
+    "question": "Which author wrote 'The Sun Also Rises'?",
+    "options": [
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "John Steinbeck",
+      "Mark Twain"
+    ],
+    "answer": "Ernest Hemingway"
+  }
+]
