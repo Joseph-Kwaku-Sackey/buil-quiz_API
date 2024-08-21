@@ -1,0 +1,422 @@
+[
+    {
+        "id": 1,
+        "question": "What is the chemical symbol for Gold?",
+        "options": ["Au", "Ag", "Pb", "Fe"],
+        "answer": "Au"
+    },
+    {
+        "id": 2,
+        "question": "What is the powerhouse of the cell?",
+        "options": ["Nucleus", "Mitochondria", "Ribosome", "Endoplasmic Reticulum"],
+        "answer": "Mitochondria"
+    },
+    {
+        "id": 3,
+        "question": "What is the process by which plants make their own food?",
+        "options": ["Photosynthesis", "Respiration", "Transpiration", "Fermentation"],
+        "answer": "Photosynthesis"
+    },
+    {
+        "id": 4,
+        "question": "What is the boiling point of water at sea level?",
+        "options": ["100°C", "90°C", "110°C", "120°C"],
+        "answer": "100°C"
+    },
+    {
+        "id": 5,
+        "question": "Which gas is most abundant in the Earth's atmosphere?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+        "answer": "Nitrogen"
+    },
+    {
+        "id": 6,
+        "question": "What is the hardest natural substance on Earth?",
+        "options": ["Gold", "Diamond", "Iron", "Quartz"],
+        "answer": "Diamond"
+    },
+    {
+        "id": 7,
+        "question": "What is the primary component of the sun?",
+        "options": ["Hydrogen", "Helium", "Oxygen", "Carbon"],
+        "answer": "Hydrogen"
+    },
+    {
+        "id": 8,
+        "question": "What is the speed of light?",
+        "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "600,000 km/s"],
+        "answer": "300,000 km/s"
+    },
+    {
+        "id": 9,
+        "question": "What type of bond involves the sharing of electron pairs?",
+        "options": ["Ionic bond", "Covalent bond", "Metallic bond", "Hydrogen bond"],
+        "answer": "Covalent bond"
+    },
+    {
+        "id": 10,
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Venus", "Mars", "Jupiter"],
+        "answer": "Mars"
+    },
+    {
+        "id": 11,
+        "question": "What is the main function of red blood cells?",
+        "options": ["Transport oxygen", "Fight infections", "Clot blood", "Regulate temperature"],
+        "answer": "Transport oxygen"
+    },
+    {
+        "id": 12,
+        "question": "What is the chemical formula for table salt?",
+        "options": ["NaCl", "KCl", "CaCl2", "MgCl2"],
+        "answer": "NaCl"
+    },
+    {
+        "id": 13,
+        "question": "Which organ is responsible for detoxifying chemicals in the body?",
+        "options": ["Kidney", "Liver", "Heart", "Lungs"],
+        "answer": "Liver"
+    },
+    {
+        "id": 14,
+        "question": "What is the primary function of the nervous system?",
+        "options": ["Regulate hormones", "Transmit signals", "Digest food", "Circulate blood"],
+        "answer": "Transmit signals"
+    },
+    {
+        "id": 15,
+        "question": "What is the unit of measure for electric current?",
+        "options": ["Volt", "Ohm", "Ampere", "Watt"],
+        "answer": "Ampere"
+    },
+    {
+        "id": 16,
+        "question": "What type of animal is a dolphin?",
+        "options": ["Fish", "Mammal", "Reptile", "Amphibian"],
+        "answer": "Mammal"
+    },
+    {
+        "id": 17,
+        "question": "What is the main gas produced by plants during photosynthesis?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "answer": "Oxygen"
+    },
+    {
+        "id": 18,
+        "question": "What is the chemical symbol for Sodium?",
+        "options": ["Na", "S", "K", "Ca"],
+        "answer": "Na"
+    },
+    {
+        "id": 19,
+        "question": "What is the most abundant element in the universe?",
+        "options": ["Oxygen", "Hydrogen", "Carbon", "Helium"],
+        "answer": "Hydrogen"
+    },
+    {
+        "id": 20,
+        "question": "What is the main function of the respiratory system?",
+        "options": ["Digest food", "Transport nutrients", "Exchange gases", "Regulate temperature"],
+        "answer": "Exchange gases"
+    },
+    {
+        "id": 21,
+        "question": "What is the primary source of energy for the Earth?",
+        "options": ["The Moon", "The Sun", "Geothermal", "Nuclear"],
+        "answer": "The Sun"
+    },
+    {
+        "id": 22,
+        "question": "What is the process by which water vapor turns into liquid water?",
+        "options": ["Evaporation", "Condensation", "Sublimation", "Precipitation"],
+        "answer": "Condensation"
+    },
+    {
+        "id": 23,
+        "question": "What is the basic unit of life?",
+        "options": ["Atom", "Molecule", "Cell", "Tissue"],
+        "answer": "Cell"
+    },
+    {
+        "id": 24,
+        "question": "What is the primary purpose of a scientific hypothesis?",
+        "options": ["To prove a theory", "To make predictions", "To collect data", "To summarize findings"],
+        "answer": "To make predictions"
+    },
+    {
+        "id": 25,
+        "question": "What is the term for the amount of matter in an object?",
+        "options": ["Weight", "Mass", "Volume", "Density"],
+        "answer": "Mass"
+    },
+    {
+        "id": 26,
+        "question": "What is the chemical formula for water?",
+        "options": ["H2O", "CO2", "O2", "NaCl"],
+        "answer": "H2O"
+    },
+    {
+        "id": 27,
+        "question": "What is the main function of the skeletal system?",
+        "options": ["Support and protect organs", "Produce hormones", "Transport oxygen", "Regulate temperature"],
+        "answer": "Support and protect organs"
+    },
+    {
+        "id": 28,
+        "question": "What is the primary component of the Earth's crust?",
+        "options": ["Silicon", "Oxygen", "Iron", "Aluminum"],
+        "answer": "Oxygen"
+    },
+    {
+        "id": 29,
+        "question": "What is the process of cell division called?",
+        "options": ["Mitosis", "Meiosis", "Fission", "Fusion"],
+        "answer": "Mitosis"
+    },
+    {
+        "id": 30,
+        "question": "What is the term for the study of living organisms?",
+        "options": ["Biology", "Chemistry", "Physics", "Ecology"],
+        "answer": "Biology"
+    },
+    {
+        "id": 31,
+        "question": "What is the primary function of enzymes in the body?",
+        "options": ["Speed up chemical reactions", "Transport nutrients", "Provide energy", "Store information"],
+        "answer": "Speed up chemical reactions"
+    },
+    {
+        "id": 32,
+        "question": "What is the main organ of the circulatory system?",
+        "options": ["Liver", "Heart", "Lungs", "Kidneys"],
+        "answer": "Heart"
+    },
+    {
+        "id": 33,
+        "question": "What is the term for the force that attracts objects toward the center of the Earth?",
+        "options": ["Friction", "Gravity", "Magnetism", "Inertia"],
+        "answer": "Gravity"
+    },
+    {
+        "id": 34,
+        "question": "What is the primary function of the digestive system?",
+        "options": ["Absorb nutrients", "Transport oxygen", "Regulate temperature", "Produce hormones"],
+        "answer": "Absorb nutrients"
+    },
+    {
+        "id": 35,
+        "question": "What is the term for an organism's ability to maintain stable internal conditions?",
+        "options": ["Homeostasis", "Metabolism", "Reproduction", "Adaptation"],
+        "answer": "Homeostasis"
+    },
+    {
+        "id": 36,
+        "question": "What is the primary gas that plants take in during photosynthesis?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 37,
+        "question": "What is the main function of the immune system?",
+        "options": ["Transport oxygen", "Fight infections", "Regulate hormones", "Digest food"],
+        "answer": "Fight infections"
+    },
+    {
+        "id": 38,
+        "question": "What is the term for a substance that speeds up a chemical reaction without being consumed?",
+        "options": ["Catalyst", "Reagent", "Solvent", "Product"],
+        "answer": "Catalyst"
+    },
+    {
+        "id": 39,
+        "question": "What is the primary function of the integumentary system?",
+        "options": ["Protect the body", "Regulate temperature", "Transport nutrients", "Produce hormones"],
+        "answer": "Protect the body"
+    },
+    {
+        "id": 40,
+        "question": "What is the term for the study of heredity and variation in organisms?",
+        "options": ["Genetics", "Evolution", "Ecology", "Anatomy"],
+        "answer": "Genetics"
+    },
+    {
+        "id": 41,
+        "question": "What is the primary function of the endocrine system?",
+        "options": ["Regulate hormones", "Transport oxygen", "Absorb nutrients", "Protect the body"],
+        "answer": "Regulate hormones"
+    },
+    {
+        "id": 42,
+        "question": "What is the term for the process by which organisms change over time?",
+        "options": ["Evolution", "Adaptation", "Natural selection", "Speciation"],
+        "answer": "Evolution"
+    },
+    {
+        "id": 43,
+        "question": "What is the primary component of the Earth's atmosphere?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Argon"],
+        "answer": "Nitrogen"
+    },
+    {
+        "id": 44,
+        "question": "What is the term for the study of ecosystems and their interactions?",
+        "options": ["Ecology", "Biology", "Geology", "Botany"],
+        "answer": "Ecology"
+    },
+    {
+        "id": 45,
+        "question": "What is the main function of the lymphatic system?",
+        "options": ["Transport nutrients", "Fight infections", "Regulate temperature", "Digest food"],
+        "answer": "Fight infections"
+    },
+    {
+        "id": 46,
+        "question": "What is the term for the change of state from liquid to gas?",
+        "options": ["Evaporation", "Condensation", "Sublimation", "Freezing"],
+        "answer": "Evaporation"
+    },
+    {
+        "id": 47,
+        "question": "What is the primary function of the urinary system?",
+        "options": ["Remove waste", "Transport oxygen", "Regulate temperature", "Digest food"],
+        "answer": "Remove waste"
+    },
+    {
+        "id": 48,
+        "question": "What is the term for the study of the structure and function of the human body?",
+        "options": ["Anatomy", "Physiology", "Biochemistry", "Histology"],
+        "answer": "Anatomy"
+    },
+    {
+        "id": 49,
+        "question": "What is the primary function of the reproductive system?",
+        "options": ["Produce offspring", "Transport nutrients", "Regulate hormones", "Remove waste"],
+        "answer": "Produce offspring"
+    },
+    {
+        "id": 50,
+        "question": "What is the term for the process of converting light energy into chemical energy?",
+        "options": ["Photosynthesis", "Respiration", "Fermentation", "Metabolism"],
+        "answer": "Photosynthesis"
+    },
+    {
+        "id": 51,
+        "question": "What is the primary function of the circulatory system?",
+        "options": ["Transport nutrients and oxygen", "Fight infections", "Regulate temperature", "Remove waste"],
+        "answer": "Transport nutrients and oxygen"
+    },
+    {
+        "id": 52,
+        "question": "What is the term for the study of fossils and ancient life?",
+        "options": ["Paleontology", "Archaeology", "Anthropology", "Geology"],
+        "answer": "Paleontology"
+    },
+    {
+        "id": 53,
+        "question": "What is the primary gas released during cellular respiration?",
+        "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+        "answer": "Carbon Dioxide"
+    },
+    {
+        "id": 54,
+        "question": "What is the term for the process by which cells break down glucose to produce energy?",
+        "options": ["Photosynthesis", "Cellular respiration", "Fermentation", "Metabolism"],
+        "answer": "Cellular respiration"
+    },
+    {
+        "id": 55,
+        "question": "What is the primary function of the skeletal system?",
+        "options": ["Support and protect the body", "Transport nutrients", "Regulate temperature", "Produce hormones"],
+        "answer": "Support and protect the body"
+    },
+    {
+        "id": 56,
+        "question": "What is the term for the study of the interactions between organisms and their environment?",
+        "options": ["Ecology", "Biology", "Botany", "Zoology"],
+        "answer": "Ecology"
+    },
+    {
+        "id": 57,
+        "question": "What is the primary function of the integumentary system?",
+        "options": ["Protect the body", "Regulate temperature", "Transport nutrients", "Produce hormones"],
+        "answer": "Protect the body"
+    },
+    {
+        "id": 58,
+        "question": "What is the term for the process by which organisms adapt to their environment over time?",
+        "options": ["Evolution", "Natural selection", "Speciation", "Adaptation"],
+        "answer": "Adaptation"
+    },
+    {
+        "id": 59,
+        "question": "What is the primary function of the nervous system?",
+        "options": ["Transmit signals", "Regulate hormones", "Transport oxygen", "Digest food"],
+        "answer": "Transmit signals"
+    },
+    {
+        "id": 60,
+        "question": "What is the term for the study of behavior and mental processes?",
+        "options": ["Psychology", "Sociology", "Anthropology", "Biology"],
+        "answer": "Psychology"
+    },
+    {
+        "id": 61,
+        "question": "What is the primary function of the endocrine system?",
+        "options": ["Regulate hormones", "Transport nutrients", "Fight infections", "Remove waste"],
+        "answer": "Regulate hormones"
+    },
+    {
+        "id": 62,
+        "question": "What is the term for the process of converting solid directly into gas?",
+        "options": ["Evaporation", "Sublimation", "Condensation", "Freezing"],
+        "answer": "Sublimation"
+    },
+    {
+        "id": 63,
+        "question": "What is the primary function of the digestive system?",
+        "options": ["Absorb nutrients", "Transport oxygen", "Regulate temperature", "Produce hormones"],
+        "answer": "Absorb nutrients"
+    },
+    {
+        "id": 64,
+        "question": "What is the term for the study of how living organisms interact with each other and their environment?",
+        "options": ["Ecology", "Biology", "Zoology", "Botany"],
+        "answer": "Ecology"
+    },
+    {
+        "id": 65,
+        "question": "What is the primary function of the respiratory system?",
+        "options": ["Exchange gases", "Transport nutrients", "Regulate temperature", "Remove waste"],
+        "answer": "Exchange gases"
+    },
+    {
+        "id": 66,
+        "question": "What is the term for the process by which plants absorb water through their roots?",
+        "options": ["Transpiration", "Osmosis", "Diffusion", "Evaporation"],
+        "answer": "Osmosis"
+    },
+    {
+        "id": 67,
+        "question": "What is the primary function of the immune system?",
+        "options": ["Fight infections", "Transport nutrients", "Regulate temperature", "Digest food"],
+        "answer": "Fight infections"
+    },
+    {
+        "id": 68,
+        "question": "What is the term for the study of heredity and the variation of inherited characteristics?",
+        "options": ["Genetics", "Evolution", "Ecology", "Anatomy"],
+        "answer": "Genetics"
+    },
+    {
+        "id": 69,
+        "question": "What is the primary function of the circulatory system?",
+        "options": ["Transport oxygen and nutrients", "Fight infections", "Regulate temperature", "Remove waste"],
+        "answer": "Transport oxygen and nutrients"
+    },
+    {
+        "id": 70,
+        "question": "What is the term for the process by which water vapor turns into liquid water?",
+        "options": ["Evaporation", "Condensation", "Sublimation", "Freezing"],
+        "answer": "Condensation"
+    }
+]
