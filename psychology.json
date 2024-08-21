@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "question": "What is the primary focus of psychology?",
+        "options": ["Studying the mind and behavior", "Analyzing economic trends", "Understanding physical laws", "Examining historical events"],
+        "answer": "Studying the mind and behavior"
+    },
+    {
+        "id": 2,
+        "question": "Which psychologist is known for the theory of classical conditioning?",
+        "options": ["Sigmund Freud", "B.F. Skinner", "Ivan Pavlov", "Carl Rogers"],
+        "answer": "Ivan Pavlov"
+    },
+    {
+        "id": 3,
+        "question": "What does the term 'cognitive dissonance' refer to?",
+        "options": ["A state of mental discomfort from conflicting beliefs", "A type of memory loss", "A form of behavioral therapy", "An emotional response to stress"],
+        "answer": "A state of mental discomfort from conflicting beliefs"
+    },
+    {
+        "id": 4,
+        "question": "What is Maslow's hierarchy of needs?",
+        "options": ["A theory of personality", "A model of human motivation", "A cognitive development theory", "A behavioral conditioning process"],
+        "answer": "A model of human motivation"
+    },
+    {
+        "id": 5,
+        "question": "Which part of the brain is primarily responsible for emotional regulation?",
+        "options": ["Cerebellum", "Frontal lobe", "Amygdala", "Occipital lobe"],
+        "answer": "Amygdala"
+    },
+    {
+        "id": 6,
+        "question": "What is the main focus of developmental psychology?",
+        "options": ["Understanding human growth and changes across the lifespan", "Studying mental disorders", "Analyzing social interactions", "Examining cognitive processes"],
+        "answer": "Understanding human growth and changes across the lifespan"
+    },
+    {
+        "id": 7,
+        "question": "What is the primary method used in qualitative research?",
+        "options": ["Surveys", "Experiments", "Interviews", "Statistical analysis"],
+        "answer": "Interviews"
+    },
+    {
+        "id": 8,
+        "question": "Which psychological perspective emphasizes the role of the unconscious mind?",
+        "options": ["Behaviorism", "Cognitive psychology", "Psychoanalysis", "Humanistic psychology"],
+        "answer": "Psychoanalysis"
+    },
+    {
+        "id": 9,
+        "question": "What is the term for the ability to understand and manage one's own emotions?",
+        "options": ["Emotional intelligence", "Social intelligence", "Cognitive flexibility", "Resilience"],
+        "answer": "Emotional intelligence"
+    },
+    {
+        "id": 10,
+        "question": "What is the primary focus of social psychology?",
+        "options": ["Individual behavior", "Group dynamics and social interactions", "Cognitive processes", "Biological influences on behavior"],
+        "answer": "Group dynamics and social interactions"
+    },
+    {
+        "id": 11,
+        "question": "What is the main goal of cognitive therapy?",
+        "options": ["To change negative thought patterns", "To explore childhood experiences", "To reinforce positive behaviors", "To analyze dreams"],
+        "answer": "To change negative thought patterns"
+    },
+    {
+        "id": 12,
+        "question": "Which psychologist is associated with the concept of operant conditioning?",
+        "options": ["Carl Rogers", "B.F. Skinner", "Sigmund Freud", "Jean Piaget"],
+        "answer": "B.F. Skinner"
+    },
+    {
+        "id": 13,
+        "question": "What is the term for a mental shortcut that allows people to make decisions quickly?",
+        "options": ["Heuristic", "Algorithm", "Cognitive bias", "Schema"],
+        "answer": "Heuristic"
+    },
+    {
+        "id": 14,
+        "question": "What is the focus of humanistic psychology?",
+        "options": ["The study of observable behavior", "Personal growth and self-actualization", "Unconscious motives", "Cognitive processes"],
+        "answer": "Personal growth and self-actualization"
+    },
+    {
+        "id": 15,
+        "question": "What is the primary purpose of psychological assessments?",
+        "options": ["To diagnose mental disorders", "To evaluate physical health", "To measure intelligence", "To predict future behavior"],
+        "answer": "To diagnose mental disorders"
+    },
+    {
+        "id": 16,
+        "question": "Which theory explains the stages of moral development?",
+        "options": ["Erikson's psychosocial theory", "Kohlberg's theory", "Piaget's cognitive development theory", "Maslow's hierarchy of needs"],
+        "answer": "Kohlberg's theory"
+    },
+    {
+        "id": 17,
+        "question": "What is the term for the tendency to attribute one's successes to internal factors and failures to external factors?",
+        "options": ["Self-serving bias", "Fundamental attribution error", "Confirmation bias", "Cognitive dissonance"],
+        "answer": "Self-serving bias"
+    },
+    {
+        "id": 18,
+        "question": "What is the focus of behavioral psychology?",
+        "options": ["Observable behavior and its relationship with the environment", "Cognitive processes", "Emotional responses", "Unconscious motives"],
+        "answer": "Observable behavior and its relationship with the environment"
+    },
+    {
+        "id": 19,
+        "question": "What is the primary function of the frontal lobe?",
+        "options": ["Processing visual information", "Controlling executive functions and decision making", "Regulating emotions", "Coordinating movement"],
+        "answer": "Controlling executive functions and decision making"
+    },
+    {
+        "id": 20,
+        "question": "What is the term for a psychological phenomenon where people conform to group norms?",
+        "options": ["Groupthink", "Social facilitation", "Cognitive dissonance", "Peer pressure"],
+        "answer": "Groupthink"
+    },
+    {
+        "id": 21,
+        "question": "What is the primary focus of clinical psychology?",
+        "options": ["Researching cognitive processes", "Diagnosing and treating mental disorders", "Studying social behavior", "Analyzing developmental stages"],
+        "answer": "Diagnosing and treating mental disorders"
+    },
+    {
+        "id": 22,
+        "question": "What is the term for the psychological phenomenon where individuals feel less responsible for their actions when in a group?",
+        "options": ["Diffusion of responsibility", "Social loafing", "Bystander effect", "Group polarization"],
+        "answer": "Diffusion of responsibility"
+    },
+    {
+        "id": 23,
+        "question": "Which psychologist is known for his work on cognitive development in children?",
+        "options": ["Sigmund Freud", "Jean Piaget", "Carl Jung", "Lev Vygotsky"],
+        "answer": "Jean Piaget"
+    },
+    {
+        "id": 24,
+        "question": "What is the term for the psychological effect where people perform better on tasks when others are present?",
+        "options": ["Social facilitation", "Social inhibition", "Groupthink", "Cognitive dissonance"],
+        "answer": "Social facilitation"
+    },
+    {
+        "id": 25,
+        "question": "What is the primary focus of industrial-organizational psychology?",
+        "options": ["Workplace behavior and productivity", "Child development", "Cognitive processes", "Social interactions"],
+        "answer": "Workplace behavior and productivity"
+    },
+    {
+        "id": 26,
+        "question": "What is the term for a mental framework that helps organize and interpret information?",
+        "options": ["Schema", "Heuristic", "Prototype", "Cognitive map"],
+        "answer": "Schema"
+    },
+    {
+        "id": 27,
+        "question": "What is the primary focus of neuropsychology?",
+        "options": ["The relationship between brain function and behavior", "Social interactions", "Cognitive development", "Emotional responses"],
+        "answer": "The relationship between brain function and behavior"
+    },
+    {
+        "id": 28,
+        "question": "What is the term for the psychological concept where individuals attribute their successes to external factors?",
+        "options": ["Self-serving bias", "Fundamental attribution error", "External locus of control", "Internal locus of control"],
+        "answer": "External locus of control"
+    },
+    {
+        "id": 29,
+        "question": "What is the primary focus of health psychology?",
+        "options": ["Understanding the psychological factors that affect health", "Studying cognitive processes", "Analyzing social behavior", "Examining developmental stages"],
+        "answer": "Understanding the psychological factors that affect health"
+    },
+    {
+        "id": 30,
+        "question": "What is the term for the tendency to seek out information that confirms one's existing beliefs?",
+        "options": ["Confirmation bias", "Cognitive dissonance", "Selective perception", "Anchoring bias"],
+        "answer": "Confirmation bias"
+    },
+    {
+        "id": 31,
+        "question": "Which theory emphasizes the role of reinforcement and punishment in behavior?",
+        "options": ["Cognitive theory", "Behaviorism", "Humanistic theory", "Psychoanalytic theory"],
+        "answer": "Behaviorism"
+    },
+    {
+        "id": 32,
+        "question": "What is the primary focus of forensic psychology?",
+        "options": ["Understanding criminal behavior", "Studying cognitive processes", "Analyzing social behavior", "Examining developmental stages"],
+        "answer": "Understanding criminal behavior"
+    },
+    {
+        "id": 33,
+        "question": "What is the term for the psychological phenomenon where individuals perform worse on tasks when others are present?",
+        "options": ["Social facilitation", "Social loafing", "Social inhibition", "Groupthink"],
+        "answer": "Social loafing"
+    },
+    {
+        "id": 34,
+        "question": "What is the primary focus of community psychology?",
+        "options": ["Understanding the relationship between individuals and their communities", "Studying cognitive processes", "Analyzing social behavior", "Examining developmental stages"],
+        "answer": "Understanding the relationship between individuals and their communities"
+    },
+    {
+        "id": 35,
+        "question": "What is the term for the psychological process of adapting to new information?",
+        "options": ["Assimilation", "Accommodation", "Adaptation", "Integration"],
+        "answer": "Accommodation"
+    },
+    {
+        "id": 36,
+        "question": "What is the primary focus of sports psychology?",
+        "options": ["Understanding the mental aspects of sports performance", "Studying cognitive processes", "Analyzing social behavior", "Examining developmental stages"],
+        "answer": "Understanding the mental aspects of sports performance"
+    },
+    {
+        "id": 37,
+        "question": "What is the term for the psychological phenomenon where people are more likely to help someone in need when they are alone?",
+        "options": ["Bystander effect", "Diffusion of responsibility", "Social facilitation", "Groupthink"],
+        "answer": "Bystander effect"
+    },
+    {
+        "id": 38,
+        "question": "What is the primary focus of environmental psychology?",
+        "options": ["Understanding the relationship between individuals and their environment", "Studying cognitive processes", "Analyzing social behavior", "Examining developmental stages"],
+        "answer": "Understanding the relationship between individuals and their environment"
+    },
+    {
+        "id": 39,
+        "question": "What is the term for the psychological concept where individuals perceive themselves as less capable than they actually are?",
+        "options": ["Imposter syndrome", "Self-esteem", "Self-efficacy", "Cognitive dissonance"],
+        "answer": "Imposter syndrome"
+    },
+    {
+        "id": 40,
+        "question": "What is the primary focus of educational psychology?",
+        "options": ["Understanding how people learn", "Studying cognitive processes", "Analyzing social behavior", "Examining developmental stages"],
+        "answer": "Understanding how people learn"
+    },
+    {
+        "id": 41,
+        "question": "What is the term for the psychological process of forgetting information over time?",
+        "options": ["Decay theory", "Interference theory", "Retrieval failure", "Cognitive load"],
+        "answer": "Decay theory"
+    },
+    {
+        "id": 42,
+        "question": "What is the primary focus of cross-cultural psychology?",
+        "options": ["Understanding how culture influences behavior", "Studying cognitive processes", "Analyzing social behavior", "Examining developmental stages"],
+        "answer": "Understanding how culture influences behavior"
+    },
+    {
+        "id": 43,
+        "question": "What is the term for the psychological concept where individuals overestimate the extent to which others share their beliefs?",
+        "options": ["False consensus effect", "Self-serving bias", "Confirmation bias", "Cognitive dissonance"],
+        "answer": "False consensus effect"
+    },
+    {
+        "id": 44,
+        "question": "What is the primary focus of geropsychology?",
+        "options": ["Understanding the psychological aspects of aging", "Studying cognitive processes", "Analyzing social behavior", "Examining developmental stages"],
+        "answer": "Understanding the psychological aspects of aging"
+    },
+    {
+        "id": 45,
+        "question": "What is the term for the psychological phenomenon where individuals are less likely to take action in an emergency when others are present?",
+        "options": ["Bystander effect", "Diffusion of responsibility", "Social facilitation", "Groupthink"],
+        "answer": "Bystander effect"
+    },
+    {
+        "id": 46,
+        "question": "What is the primary focus of child psychology?",
+        "options": ["Understanding the mental processes of children", "Studying cognitive processes", "Analyzing social behavior", "Examining developmental stages"],
+        "answer": "Understanding the mental processes of children"
+    },
+    {
+        "id": 47,
+        "question": "What is the term for the psychological concept where individuals attribute their successes to internal factors and failures to external factors?",
+        "options": ["Self-serving bias", "Fundamental attribution error", "Confirmation bias", "Cognitive dissonance"],
+        "answer": "Self-serving bias"
+    },
+    {
+        "id": 48,
+        "question": "What is the primary focus of positive psychology?",
+        "options": ["Studying human strengths and well-being", "Analyzing cognitive processes", "Examining social behavior", "Understanding mental disorders"],
+        "answer": "Studying human strengths and well-being"
+    },
+    {
+        "id": 49,
+        "question": "What is the term for the psychological phenomenon where individuals feel less responsible for their actions when in a group?",
+        "options": ["Diffusion of responsibility", "Social loafing", "Bystander effect", "Group polarization"],
+        "answer": "Diffusion of responsibility"
+    },
+    {
+        "id": 50,
+        "question": "What is the primary focus of behavioral neuroscience?",
+        "options": ["Understanding the biological basis of behavior", "Studying cognitive processes", "Analyzing social behavior", "Examining developmental stages"],
+        "answer": "Understanding the biological basis of behavior"
+    },
+    {
+        "id": 51,
+        "question": "What is the term for the psychological concept where individuals are influenced by the presence of others?",
+        "options": ["Social influence", "Groupthink", "Conformity", "Peer pressure"],
+        "answer": "Social influence"
+    },
+    {
+        "id": 52,
+        "question": "What is the primary focus of family psychology?",
+        "options": ["Understanding family dynamics and relationships", "Studying cognitive processes", "Analyzing social behavior", "Examining developmental stages"],
+        "answer": "Understanding family dynamics and relationships"
+    },
+    {
+        "id": 53,
+        "question": "What is the term for the psychological phenomenon where individuals are more likely to remember information that is consistent with their beliefs?",
+        "options": ["Confirmation bias", "Cognitive dissonance", "Selective perception", "Anchoring bias"],
+        "answer": "Confirmation bias"
+    },
+    {
+        "id": 54,
+        "question": "What is the primary focus of addiction psychology?",
+        "options": ["Understanding the psychological aspects of addiction", "Studying cognitive processes", "Analyzing social behavior", "Examining developmental stages"],
+        "answer": "Understanding the psychological aspects of addiction"
+    },
+    {
+        "id": 55,
+        "question": "What is the term for the psychological process of changing one's behavior to fit in with a group?",
+        "options": ["Conformity", "Compliance", "Obedience", "Social facilitation"],
+        "answer": "Conformity"
+    },
+    {
+        "id": 56,
+        "question": "What is the primary focus of crisis psychology?",
+        "options": ["Understanding psychological responses to crises", "Studying cognitive processes", "Analyzing social behavior", "Examining developmental stages"],
+        "answer": "Understanding psychological responses to crises"
+    },
+    {
+        "id": 57,
+        "question": "What is the term for the psychological concept where individuals perceive themselves as better than average?",
+        "options": ["Illusory superiority", "Self-serving bias", "Cognitive dissonance", "Confirmation bias"],
+        "answer": "Illusory superiority"
+    },
+    {
+        "id": 58,
+        "question": "What is the primary focus of organizational psychology?",
+        "options": ["Understanding workplace behavior", "Studying cognitive processes", "Analyzing social behavior", "Examining developmental stages"],
+        "answer": "Understanding workplace behavior"
+    },
+    {
+        "id": 59,
+        "question": "What is the term for the psychological phenomenon where individuals are less likely to help someone in need when they are in a group?",
+        "options": ["Bystander effect", "Diffusion of responsibility", "Social facilitation", "Groupthink"],
+        "answer": "Bystander effect"
+    },
+    {
+        "id": 60,
+        "question": "What is the primary focus of environmental psychology?",
+        "options": ["Understanding the relationship between individuals and their environment", "Studying cognitive processes", "Analyzing social behavior", "Examining developmental stages"],
+        "answer": "Understanding the relationship between individuals and their environment"
+    }
+]
