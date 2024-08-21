@@ -1,0 +1,651 @@
+[
+  {
+    "id": 1,
+    "question": "What is the term for the speed of a piece of music?",
+    "options": [
+      "Tempo",
+      "Dynamics",
+      "Pitch",
+      "Rhythm"
+    ],
+    "answer": "Tempo"
+  },
+  {
+    "id": 2,
+    "question": "Which clef is used for higher-pitched instruments?",
+    "options": [
+      "Bass clef",
+      "Alto clef",
+      "Treble clef",
+      "Tenor clef"
+    ],
+    "answer": "Treble clef"
+  },
+  {
+    "id": 3,
+    "question": "What is the name of the distance between two pitches?",
+    "options": [
+      "Interval",
+      "Chord",
+      "Scale",
+      "Key"
+    ],
+    "answer": "Interval"
+  },
+  {
+    "id": 4,
+    "question": "Which scale consists of five notes?",
+    "options": [
+      "Major scale",
+      "Minor scale",
+      "Pentatonic scale",
+      "Chromatic scale"
+    ],
+    "answer": "Pentatonic scale"
+  },
+  {
+    "id": 5,
+    "question": "What is the term for a group of three notes played together?",
+    "options": [
+      "Triad",
+      "Chord",
+      "Scale",
+      "Interval"
+    ],
+    "answer": "Triad"
+  },
+  {
+    "id": 6,
+    "question": "Which instrument is known as the 'king of instruments'?",
+    "options": [
+      "Piano",
+      "Violin",
+      "Organ",
+      "Trumpet"
+    ],
+    "answer": "Organ"
+  },
+  {
+    "id": 7,
+    "question": "What is the term for the loudness or softness of a sound?",
+    "options": [
+      "Dynamics",
+      "Tempo",
+      "Pitch",
+      "Rhythm"
+    ],
+    "answer": "Dynamics"
+  },
+  {
+    "id": 8,
+    "question": "Which musical form consists of a repeated section followed by contrasting sections?",
+    "options": [
+      "Binary form",
+      "Ternary form",
+      "Strophic form",
+      "Through-composed"
+    ],
+    "answer": "Ternary form"
+  },
+  {
+    "id": 9,
+    "question": "What is the term for a gradual increase in loudness?",
+    "options": [
+      "Crescendo",
+      "Decrescendo",
+      "Forte",
+      "Piano"
+    ],
+    "answer": "Crescendo"
+  },
+  {
+    "id": 10,
+    "question": "Which composer is known for his symphonies and operas, including 'The Magic Flute'?",
+    "options": [
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Johann Sebastian Bach",
+      "Frédéric Chopin"
+    ],
+    "answer": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "id": 11,
+    "question": "What is the term for a musical piece written for a solo instrument?",
+    "options": [
+      "Sonata",
+      "Concerto",
+      "Symphony",
+      "Suite"
+    ],
+    "answer": "Sonata"
+  },
+  {
+    "id": 12,
+    "question": "Which instrument is typically used in a string quartet?",
+    "options": [
+      "Piano",
+      "Violin",
+      "Clarinet",
+      "Trumpet"
+    ],
+    "answer": "Violin"
+  },
+  {
+    "id": 13,
+    "question": "What is the name of the notes that are played together to create harmony?",
+    "options": [
+      "Melody",
+      "Chord",
+      "Scale",
+      "Rhythm"
+    ],
+    "answer": "Chord"
+  },
+  {
+    "id": 14,
+    "question": "Which scale is made up of seven notes?",
+    "options": [
+      "Pentatonic scale",
+      "Chromatic scale",
+      "Major scale",
+      "Minor scale"
+    ],
+    "answer": "Major scale"
+  },
+  {
+    "id": 15,
+    "question": "What is the term for a musical piece that tells a story?",
+    "options": [
+      "Narrative",
+      "Ballad",
+      "Sonata",
+      "Concerto"
+    ],
+    "answer": "Ballad"
+  },
+  {
+    "id": 16,
+    "question": "Which of the following is a woodwind instrument?",
+    "options": [
+      "Trumpet",
+      "Violin",
+      "Flute",
+      "Drums"
+    ],
+    "answer": "Flute"
+  },
+  {
+    "id": 17,
+    "question": "What is the term for the distance between the highest and lowest notes in a piece of music?",
+    "options": [
+      "Range",
+      "Scale",
+      "Interval",
+      "Key"
+    ],
+    "answer": "Range"
+  },
+  {
+    "id": 18,
+    "question": "Which musical notation indicates to play softly?",
+    "options": [
+      "Forte",
+      "Piano",
+      "Mezzo-forte",
+      "Sforzando"
+    ],
+    "answer": "Piano"
+  },
+  {
+    "id": 19,
+    "question": "What is the term for a repeated musical phrase?",
+    "options": [
+      "Theme",
+      "Motif",
+      "Variation",
+      "Bridge"
+    ],
+    "answer": "Theme"
+  },
+  {
+    "id": 20,
+    "question": "Which composer is known for his 'Moonlight Sonata'?",
+    "options": [
+      "Johann Sebastian Bach",
+      "Ludwig van Beethoven",
+      "Frédéric Chopin",
+      "Wolfgang Amadeus Mozart"
+    ],
+    "answer": "Ludwig van Beethoven"
+  },
+  {
+    "id": 21,
+    "question": "What is the term for a piece of music played without vocal accompaniment?",
+    "options": [
+      "Vocal",
+      "Instrumental",
+      "Choral",
+      "Orchestral"
+    ],
+    "answer": "Instrumental"
+  },
+  {
+    "id": 22,
+    "question": "Which musical term indicates to play very softly?",
+    "options": [
+      "Piano",
+      "Forte",
+      "Mezzo-piano",
+      "Crescendo"
+    ],
+    "answer": "Piano"
+  },
+  {
+    "id": 23,
+    "question": "What is the name of the system that uses five lines and four spaces to represent musical notes?",
+    "options": [
+      "Staff",
+      "Clef",
+      "Scale",
+      "Chord"
+    ],
+    "answer": "Staff"
+  },
+  {
+    "id": 24,
+    "question": "Which instrument is known for its use in jazz music?",
+    "options": [
+      "Piano",
+      "Flute",
+      "Saxophone",
+      "Violin"
+    ],
+    "answer": "Saxophone"
+  },
+  {
+    "id": 25,
+    "question": "What is the term for a musical composition for a large group of instruments?",
+    "options": [
+      "Symphony",
+      "Concerto",
+      "Sonata",
+      "Suite"
+    ],
+    "answer": "Symphony"
+  },
+  {
+    "id": 26,
+    "question": "Which of the following is a brass instrument?",
+    "options": [
+      "Clarinet",
+      "Trumpet",
+      "Violin",
+      "Flute"
+    ],
+    "answer": "Trumpet"
+  },
+  {
+    "id": 27,
+    "question": "What is the term for a piece of music that is sung?",
+    "options": [
+      "Instrumental",
+      "Vocal",
+      "Choral",
+      "Acapella"
+    ],
+    "answer": "Vocal"
+  },
+  {
+    "id": 28,
+    "question": "Which composer is known for his ballets, including 'Swan Lake'?",
+    "options": [
+      "Frédéric Chopin",
+      "Pyotr Ilyich Tchaikovsky",
+      "Johann Strauss II",
+      "Igor Stravinsky"
+    ],
+    "answer": "Pyotr Ilyich Tchaikovsky"
+  },
+  {
+    "id": 29,
+    "question": "What is the term for a musical piece that is played at a moderate tempo?",
+    "options": [
+      "Allegro",
+      "Andante",
+      "Largo",
+      "Presto"
+    ],
+    "answer": "Andante"
+  },
+  {
+    "id": 30,
+    "question": "Which scale consists of whole and half steps in a specific pattern?",
+    "options": [
+      "Chromatic scale",
+      "Major scale",
+      "Minor scale",
+      "Pentatonic scale"
+    ],
+    "answer": "Major scale"
+  },
+  {
+    "id": 31,
+    "question": "What is the term for a musical composition that is based on a theme and variations?",
+    "options": [
+      "Theme and variations",
+      "Sonata form",
+      "Fugue",
+      "Rondo"
+    ],
+    "answer": "Theme and variations"
+  },
+  {
+    "id": 32,
+    "question": "Which instrument is commonly used in orchestras and has a wide range?",
+    "options": [
+      "Piano",
+      "Violin",
+      "Flute",
+      "Cello"
+    ],
+    "answer": "Violin"
+  },
+  {
+    "id": 33,
+    "question": "What is the term for a piece of music that is played very fast?",
+    "options": [
+      "Allegro",
+      "Andante",
+      "Largo",
+      "Presto"
+    ],
+    "answer": "Presto"
+  },
+  {
+    "id": 34,
+    "question": "Which musical form consists of two contrasting sections?",
+    "options": [
+      "Binary form",
+      "Ternary form",
+      "Strophic form",
+      "Through-composed"
+    ],
+    "answer": "Binary form"
+  },
+  {
+    "id": 35,
+    "question": "What is the term for the main melody in a piece of music?",
+    "options": [
+      "Harmony",
+      "Theme",
+      "Rhythm",
+      "Chord"
+    ],
+    "answer": "Theme"
+  },
+  {
+    "id": 36,
+    "question": "Which composer is known for his 'Symphony No. 5'?",
+    "options": [
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Wolfgang Amadeus Mozart",
+      "Frédéric Chopin"
+    ],
+    "answer": "Ludwig van Beethoven"
+  },
+  {
+    "id": 37,
+    "question": "What is the term for a gradual decrease in loudness?",
+    "options": [
+      "Crescendo",
+      "Decrescendo",
+      "Forte",
+      "Piano"
+    ],
+    "answer": "Decrescendo"
+  },
+  {
+    "id": 38,
+    "question": "Which instrument is known for its deep, rich sound and is played with a bow?",
+    "options": [
+      "Cello",
+      "Violin",
+      "Trumpet",
+      "Flute"
+    ],
+    "answer": "Cello"
+  },
+  {
+    "id": 39,
+    "question": "What is the term for a piece of music that is written for a solo voice?",
+    "options": [
+      "Aria",
+      "Chorus",
+      "Duet",
+      "Trio"
+    ],
+    "answer": "Aria"
+  },
+  {
+    "id": 40,
+    "question": "Which musical term refers to the highness or lowness of a sound?",
+    "options": [
+      "Dynamics",
+      "Tempo",
+      "Pitch",
+      "Rhythm"
+    ],
+    "answer": "Pitch"
+  },
+  {
+    "id": 41,
+    "question": "What is the term for a piece of music that is composed for multiple voices?",
+    "options": [
+      "Choral",
+      "Vocal",
+      "Instrumental",
+      "Solo"
+    ],
+    "answer": "Choral"
+  },
+  {
+    "id": 42,
+    "question": "Which composer is known for his operas, including 'Carmen'?",
+    "options": [
+      "Giuseppe Verdi",
+      "Giacomo Puccini",
+      "Georges Bizet",
+      "Richard Wagner"
+    ],
+    "answer": "Georges Bizet"
+  },
+  {
+    "id": 43,
+    "question": "What is the term for a musical piece that is played at a slow tempo?",
+    "options": [
+      "Allegro",
+      "Andante",
+      "Largo",
+      "Presto"
+    ],
+    "answer": "Largo"
+  },
+  {
+    "id": 44,
+    "question": "Which scale consists of all twelve pitches in an octave?",
+    "options": [
+      "Major scale",
+      "Minor scale",
+      "Chromatic scale",
+      "Pentatonic scale"
+    ],
+    "answer": "Chromatic scale"
+  },
+  {
+    "id": 45,
+    "question": "What is the term for a musical piece that is composed for a small group of instruments?",
+    "options": [
+      "Chamber music",
+      "Symphony",
+      "Concerto",
+      "Orchestral"
+    ],
+    "answer": "Chamber music"
+  },
+  {
+    "id": 46,
+    "question": "Which instrument is known for its use in classical music and has keys?",
+    "options": [
+      "Piano",
+      "Violin",
+      "Flute",
+      "Trumpet"
+    ],
+    "answer": "Piano"
+  },
+  {
+    "id": 47,
+    "question": "What is the term for a musical piece that is written in a specific key?",
+    "options": [
+      "Key signature",
+      "Scale",
+      "Chord",
+      "Interval"
+    ],
+    "answer": "Key signature"
+  },
+  {
+    "id": 48,
+    "question": "Which composer is known for his 'Requiem'?",
+    "options": [
+      "Johann Sebastian Bach",
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Frédéric Chopin"
+    ],
+    "answer": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "id": 49,
+    "question": "What is the term for a piece of music that is played at a fast tempo?",
+    "options": [
+      "Allegro",
+      "Andante",
+      "Largo",
+      "Presto"
+    ],
+    "answer": "Allegro"
+  },
+  {
+    "id": 50,
+    "question": "Which instrument is known for its use in orchestras and has a wide range?",
+    "options": [
+      "Piano",
+      "Violin",
+      "Flute",
+      "Cello"
+    ],
+    "answer": "Violin"
+  },
+  {
+    "id": 51,
+    "question": "What is the term for a musical piece that is composed for a solo instrument?",
+    "options": [
+      "Sonata",
+      "Concerto",
+      "Symphony",
+      "Suite"
+    ],
+    "answer": "Sonata"
+  },
+  {
+    "id": 52,
+    "question": "Which instrument is typically used in a string quartet?",
+    "options": [
+      "Piano",
+      "Violin",
+      "Clarinet",
+      "Trumpet"
+    ],
+    "answer": "Violin"
+  },
+  {
+    "id": 53,
+    "question": "What is the name of the notes that are played together to create harmony?",
+    "options": [
+      "Melody",
+      "Chord",
+      "Scale",
+      "Rhythm"
+    ],
+    "answer": "Chord"
+  },
+  {
+    "id": 54,
+    "question": "Which scale is made up of seven notes?",
+    "options": [
+      "Pentatonic scale",
+      "Chromatic scale",
+      "Major scale",
+      "Minor scale"
+    ],
+    "answer": "Major scale"
+  },
+  {
+    "id": 55,
+    "question": "What is the term for a musical piece that tells a story?",
+    "options": [
+      "Narrative",
+      "Ballad",
+      "Sonata",
+      "Concerto"
+    ],
+    "answer": "Ballad"
+  },
+  {
+    "id": 56,
+    "question": "Which of the following is a woodwind instrument?",
+    "options": [
+      "Trumpet",
+      "Violin",
+      "Flute",
+      "Drums"
+    ],
+    "answer": "Flute"
+  },
+  {
+    "id": 57,
+    "question": "What is the term for the distance between the highest and lowest notes in a piece of music?",
+    "options": [
+      "Range",
+      "Scale",
+      "Interval",
+      "Key"
+    ],
+    "answer": "Range"
+  },
+  {
+    "id": 58,
+    "question": "Which musical notation indicates to play softly?",
+    "options": [
+      "Forte",
+      "Piano",
+      "Mezzo-forte",
+      "Sforzando"
+    ],
+    "answer": "Piano"
+  },
+  {
+    "id": 59,
+    "question": "What is the term for a repeated musical phrase?",
+    "options": [
+      "Theme",
+      "Motif",
+      "Variation",
+      "Bridge"
+    ],
+    "answer": "Theme"
+  }
+]
