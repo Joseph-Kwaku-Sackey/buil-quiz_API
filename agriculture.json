@@ -1,0 +1,629 @@
+[
+  {
+    "id": 1,
+    "question": "What is the primary purpose of crop rotation?",
+    "options": [
+      "To improve soil fertility",
+      "To increase pest resistance",
+      "To reduce soil erosion",
+      "To enhance water retention"
+    ],
+    "answer": "To improve soil fertility"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is a macronutrient essential for plant growth?",
+    "options": [
+      "Iron",
+      "Zinc",
+      "Nitrogen",
+      "Copper"
+    ],
+    "answer": "Nitrogen"
+  },
+  {
+    "id": 3,
+    "question": "What is the process of adding nutrients to the soil called?",
+    "options": [
+      "Fertilization",
+      "Irrigation",
+      "Harvesting",
+      "Cultivation"
+    ],
+    "answer": "Fertilization"
+  },
+  {
+    "id": 4,
+    "question": "Which type of farming focuses on growing crops for sale?",
+    "options": [
+      "Subsistence farming",
+      "Commercial farming",
+      "Organic farming",
+      "Sustainable farming"
+    ],
+    "answer": "Commercial farming"
+  },
+  {
+    "id": 5,
+    "question": "What is the term for the practice of growing different crops in the same area?",
+    "options": [
+      "Crop rotation",
+      "Intercropping",
+      "Monoculture",
+      "Agroforestry"
+    ],
+    "answer": "Intercropping"
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is a common method for controlling pests in agriculture?",
+    "options": [
+      "Crop rotation",
+      "Chemical pesticides",
+      "Biological control",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 7,
+    "question": "What is the primary benefit of organic farming?",
+    "options": [
+      "Higher yields",
+      "Reduced chemical use",
+      "Lower labor costs",
+      "Faster growth"
+    ],
+    "answer": "Reduced chemical use"
+  },
+  {
+    "id": 8,
+    "question": "Which soil type is best for agriculture?",
+    "options": [
+      "Clay soil",
+      "Sandy soil",
+      "Loamy soil",
+      "Peaty soil"
+    ],
+    "answer": "Loamy soil"
+  },
+  {
+    "id": 9,
+    "question": "What is the main goal of sustainable agriculture?",
+    "options": [
+      "Maximizing profits",
+      "Minimizing environmental impact",
+      "Increasing crop yields",
+      "Reducing labor costs"
+    ],
+    "answer": "Minimizing environmental impact"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is a benefit of using cover crops?",
+    "options": [
+      "Improved soil health",
+      "Weed suppression",
+      "Erosion control",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 11,
+    "question": "What is the primary purpose of irrigation in agriculture?",
+    "options": [
+      "To control pests",
+      "To provide water to crops",
+      "To improve soil structure",
+      "To enhance nutrient uptake"
+    ],
+    "answer": "To provide water to crops"
+  },
+  {
+    "id": 12,
+    "question": "Which crop is commonly grown as a cover crop?",
+    "options": [
+      "Corn",
+      "Soybeans",
+      "Rye",
+      "Wheat"
+    ],
+    "answer": "Rye"
+  },
+  {
+    "id": 13,
+    "question": "What is the term for the practice of planting trees alongside crops?",
+    "options": [
+      "Agroforestry",
+      "Silviculture",
+      "Permaculture",
+      "Hydroponics"
+    ],
+    "answer": "Agroforestry"
+  },
+  {
+    "id": 14,
+    "question": "Which of the following is a common method of soil conservation?",
+    "options": [
+      "Terracing",
+      "Tillage",
+      "Overgrazing",
+      "Monoculture"
+    ],
+    "answer": "Terracing"
+  },
+  {
+    "id": 15,
+    "question": "What is the primary function of a greenhouse?",
+    "options": [
+      "To increase crop yields",
+      "To protect plants from pests",
+      "To control temperature and humidity",
+      "To reduce labor costs"
+    ],
+    "answer": "To control temperature and humidity"
+  },
+  {
+    "id": 16,
+    "question": "Which of the following is a method of organic pest control?",
+    "options": [
+      "Insect traps",
+      "Beneficial insects",
+      "Neem oil",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 17,
+    "question": "What is the primary purpose of crop diversification?",
+    "options": [
+      "To reduce risk",
+      "To increase yields",
+      "To improve soil health",
+      "To enhance pest resistance"
+    ],
+    "answer": "To reduce risk"
+  },
+  {
+    "id": 18,
+    "question": "Which nutrient is most important for root development?",
+    "options": [
+      "Nitrogen",
+      "Phosphorus",
+      "Potassium",
+      "Calcium"
+    ],
+    "answer": "Phosphorus"
+  },
+  {
+    "id": 19,
+    "question": "What is the term for the practice of growing plants without soil?",
+    "options": [
+      "Hydroponics",
+      "Aquaponics",
+      "Aeroponics",
+      "Soil-less farming"
+    ],
+    "answer": "Hydroponics"
+  },
+  {
+    "id": 20,
+    "question": "Which of the following is a common pest in agriculture?",
+    "options": [
+      "Aphids",
+      "Ladybugs",
+      "Bees",
+      "Earthworms"
+    ],
+    "answer": "Aphids"
+  },
+  {
+    "id": 21,
+    "question": "What is the primary benefit of using organic fertilizers?",
+    "options": [
+      "Quick nutrient release",
+      "Improved soil structure",
+      "Lower cost",
+      "Higher yields"
+    ],
+    "answer": "Improved soil structure"
+  },
+  {
+    "id": 22,
+    "question": "Which of the following is a common method of weed control?",
+    "options": [
+      "Tillage",
+      "Mulching",
+      "Herbicides",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 23,
+    "question": "What is the term for the practice of breeding plants for specific traits?",
+    "options": [
+      "Plant breeding",
+      "Genetic engineering",
+      "Hybridization",
+      "Selective breeding"
+    ],
+    "answer": "Plant breeding"
+  },
+  {
+    "id": 24,
+    "question": "Which of the following is a benefit of using drip irrigation?",
+    "options": [
+      "Reduced water waste",
+      "Increased weed growth",
+      "Higher labor costs",
+      "Lower crop yields"
+    ],
+    "answer": "Reduced water waste"
+  },
+  {
+    "id": 25,
+    "question": "What is the primary purpose of soil testing?",
+    "options": [
+      "To determine pH levels",
+      "To assess nutrient availability",
+      "To evaluate soil texture",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 26,
+    "question": "Which of the following is a major cash crop?",
+    "options": [
+      "Wheat",
+      "Corn",
+      "Cotton",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 27,
+    "question": "What is the term for a pest that has developed resistance to pesticides?",
+    "options": [
+      "Resistant pest",
+      "Super pest",
+      "Pesticide-resistant pest",
+      "Invasive species"
+    ],
+    "answer": "Pesticide-resistant pest"
+  },
+  {
+    "id": 28,
+    "question": "Which of the following is a benefit of agroecology?",
+    "options": [
+      "Increased biodiversity",
+      "Reduced chemical use",
+      "Improved soil health",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 29,
+    "question": "What is the primary goal of precision agriculture?",
+    "options": [
+      "Maximizing yields",
+      "Minimizing input costs",
+      "Improving resource efficiency",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 30,
+    "question": "Which of the following is a method of soil conservation?",
+    "options": [
+      "Contour plowing",
+      "Overgrazing",
+      "Deforestation",
+      "Monoculture"
+    ],
+    "answer": "Contour plowing"
+  },
+  {
+    "id": 31,
+    "question": "What is the term for the process of removing excess water from soil?",
+    "options": [
+      "Irrigation",
+      "Drainage",
+      "Flooding",
+      "Waterlogging"
+    ],
+    "answer": "Drainage"
+  },
+  {
+    "id": 32,
+    "question": "Which of the following is a type of organic farming?",
+    "options": [
+      "Biodynamic farming",
+      "Conventional farming",
+      "Industrial farming",
+      "Hydroponic farming"
+    ],
+    "answer": "Biodynamic farming"
+  },
+  {
+    "id": 33,
+    "question": "What is the primary purpose of a seed bank?",
+    "options": [
+      "To store seeds for future use",
+      "To sell seeds to farmers",
+      "To research new seed varieties",
+      "To promote biodiversity"
+    ],
+    "answer": "To store seeds for future use"
+  },
+  {
+    "id": 34,
+    "question": "Which of the following is a benefit of integrated pest management?",
+    "options": [
+      "Reduced pesticide use",
+      "Increased crop yields",
+      "Lower costs",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 35,
+    "question": "What is the term for a plant that grows in a specific region or environment?",
+    "options": [
+      "Native plant",
+      "Invasive species",
+      "Exotic plant",
+      "Endangered species"
+    ],
+    "answer": "Native plant"
+  },
+  {
+    "id": 36,
+    "question": "Which of the following is a major factor affecting crop yield?",
+    "options": [
+      "Soil quality",
+      "Weather conditions",
+      "Pest management",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 37,
+    "question": "What is the primary purpose of a compost pile?",
+    "options": [
+      "To reduce waste",
+      "To create fertilizer",
+      "To improve soil health",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 38,
+    "question": "Which of the following is a type of irrigation system?",
+    "options": [
+      "Drip irrigation",
+      "Sprinkler irrigation",
+      "Surface irrigation",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 39,
+    "question": "What is the term for a crop that is grown primarily for sale?",
+    "options": [
+      "Cash crop",
+      "Subsistence crop",
+      "Food crop",
+      "Cover crop"
+    ],
+    "answer": "Cash crop"
+  },
+  {
+    "id": 40,
+    "question": "Which of the following is a common method of soil testing?",
+    "options": [
+      "pH testing",
+      "Nutrient analysis",
+      "Soil texture analysis",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 41,
+    "question": "What is the primary benefit of using mulch in gardening?",
+    "options": [
+      "Weed suppression",
+      "Moisture retention",
+      "Soil temperature regulation",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 42,
+    "question": "Which of the following is a common organic pest control method?",
+    "options": [
+      "Neem oil",
+      "Chemical pesticides",
+      "Synthetic fertilizers",
+      "Insecticides"
+    ],
+    "answer": "Neem oil"
+  },
+  {
+    "id": 43,
+    "question": "What is the term for the practice of growing crops without soil?",
+    "options": [
+      "Hydroponics",
+      "Aquaponics",
+      "Aeroponics",
+      "Soil-less farming"
+    ],
+    "answer": "Hydroponics"
+  },
+  {
+    "id": 44,
+    "question": "Which of the following is a benefit of using cover crops?",
+    "options": [
+      "Improved soil health",
+      "Weed suppression",
+      "Erosion control",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 45,
+    "question": "What is the primary purpose of soil conservation?",
+    "options": [
+      "To increase crop yields",
+      "To prevent soil erosion",
+      "To improve water retention",
+      "To enhance nutrient availability"
+    ],
+    "answer": "To prevent soil erosion"
+  },
+  {
+    "id": 46,
+    "question": "Which of the following is a common method of irrigation?",
+    "options": [
+      "Drip irrigation",
+      "Flood irrigation",
+      "Sprinkler irrigation",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 47,
+    "question": "What is the term for a plant that is grown primarily for its seeds?",
+    "options": [
+      "Oilseed crop",
+      "Grain crop",
+      "Fiber crop",
+      "Vegetable crop"
+    ],
+    "answer": "Oilseed crop"
+  },
+  {
+    "id": 48,
+    "question": "Which of the following is a common soil amendment?",
+    "options": [
+      "Compost",
+      "Lime",
+      "Gypsum",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 49,
+    "question": "What is the primary benefit of crop rotation?",
+    "options": [
+      "Reduced pest pressure",
+      "Improved soil fertility",
+      "Increased biodiversity",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 50,
+    "question": "Which of the following is a common method of weed control?",
+    "options": [
+      "Tillage",
+      "Mulching",
+      "Herbicides",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 51,
+    "question": "What is the term for the practice of breeding plants for specific traits?",
+    "options": [
+      "Plant breeding",
+      "Genetic engineering",
+      "Hybridization",
+      "Selective breeding"
+    ],
+    "answer": "Plant breeding"
+  },
+  {
+    "id": 52,
+    "question": "Which nutrient is most important for leaf growth?",
+    "options": [
+      "Nitrogen",
+      "Phosphorus",
+      "Potassium",
+      "Calcium"
+    ],
+    "answer": "Nitrogen"
+  },
+  {
+    "id": 53,
+    "question": "What is the term for the practice of planting trees alongside crops?",
+    "options": [
+      "Agroforestry",
+      "Silviculture",
+      "Permaculture",
+      "Hydroponics"
+    ],
+    "answer": "Agroforestry"
+  },
+  {
+    "id": 54,
+    "question": "Which of the following is a benefit of using organic fertilizers?",
+    "options": [
+      "Improved soil structure",
+      "Quick nutrient release",
+      "Lower cost",
+      "Higher yields"
+    ],
+    "answer": "Improved soil structure"
+  },
+  {
+    "id": 55,
+    "question": "What is the primary purpose of a seed bank?",
+    "options": [
+      "To store seeds for future use",
+      "To sell seeds to farmers",
+      "To research new seed varieties",
+      "To promote biodiversity"
+    ],
+    "answer": "To store seeds for future use"
+  },
+  {
+    "id": 56,
+    "question": "Which of the following is a common method of soil conservation?",
+    "options": [
+      "Contour plowing",
+      "Overgrazing",
+      "Deforestation",
+      "Monoculture"
+    ],
+    "answer": "Contour plowing"
+  },
+  {
+    "id": 57,
+    "question": "What is the term for a pest that has developed resistance to pesticides?",
+    "options": [
+      "Resistant pest",
+      "Super pest",
+      "Pesticide-resistant pest",
+      "Invasive species"
+    ],
+    "answer": "Pesticide-resistant pest"
+  },
+]
